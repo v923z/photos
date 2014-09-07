@@ -5,13 +5,16 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC12032.ARW"
+   xmpMM:DerivedFrom="DSC12264.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="1"
+   exif:GPSLongitude="11,28.675404E"
+   exif:GPSLatitude="46,33.223572N">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -41,14 +44,16 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -62,26 +67,29 @@
     <rdf:Seq>
      <rdf:li>sharpen</rdf:li>
      <rdf:li>basecurve</rdf:li>
-     <rdf:li>basecurve</rdf:li>
-     <rdf:li>velvia</rdf:li>
-     <rdf:li>bilat</rdf:li>
-     <rdf:li>colisa</rdf:li>
      <rdf:li>nlmeans</rdf:li>
+     <rdf:li>lens</rdf:li>
+     <rdf:li>velvia</rdf:li>
+     <rdf:li>vibrance</rdf:li>
+     <rdf:li>velvia</rdf:li>
+     <rdf:li>colisa</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
     <rdf:Seq>
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>0000c8410000803f</rdf:li>
-     <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
-     <rdf:li>0000000000000000c0cc4c3d</rdf:li>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
+     <rdf:li>gz02eJyzZoCBBnsGhgNAPMGRgSHBESTCCMTBPiG6jubmYQzBeSAuw4dnL8F07RbPn3b1cM0MD/7xMYFoh4c9YHmNL+8y/wPlN+yEqGdg4AfLJ1zpAvPd7Db/AOmH8V/YQ/gMKh1gftrxWWB+cH5epYJLiIKhha6paW6ugpuxnqmuqZ6ZQrCjLxD7ACVMTZHMvbALYl/DHQUw7WCkysiADKDmb14Dse8/FDBC/cvwAOJ+MT2oe+Bh02APAPL1RbU=</rdf:li>
+     <rdf:li>0000c8410000803f</rdf:li>
+     <rdf:li>0000c841</rdf:li>
+     <rdf:li>0000c8410000803f</rdf:li>
+     <rdf:li>0000000000000000d0cccc3d</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -100,10 +108,12 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -122,20 +132,29 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
     <rdf:Seq>
-     <rdf:li>Salurn</rdf:li>
-     <rdf:li>South Tirol</rdf:li>
-     <rdf:li>Orsi</rdf:li>
+     <rdf:li>church</rdf:li>
+     <rdf:li>Alps</rdf:li>
+     <rdf:li>Dolomites</rdf:li>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>landscape</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>panorama</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>Salurn</rdf:li>
-     <rdf:li>South Tirol</rdf:li>
-     <rdf:li>Orsi</rdf:li>
+     <rdf:li>church</rdf:li>
+     <rdf:li>Alps</rdf:li>
+     <rdf:li>Dolomites</rdf:li>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>landscape</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>panorama</rdf:li>
     </rdf:Seq>
    </dc:subject>
   </rdf:Description>
