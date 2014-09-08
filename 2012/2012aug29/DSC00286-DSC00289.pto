@@ -1,0 +1,54 @@
+# hugin project file
+#hugin_ptoversion 2
+p f5 w12646 h13031 v193  k0 E10.5805 R0 n"TIFF_m c:LZW r:CROP"
+m g1 i0 f0 m2 p0.00784314
+
+# image lines
+#-hugin  cropFactor=1.5
+i w3872 h2592 f0 v67.3128530250427 Ra0 Rb0 Rc0 Rd0 Re0 Eev10.580494060253 Er1 Eb1 r0 p-35.2954251815169 y-153.413514260632 TrX-0.185276801407672 TrY0.00608749202863148 TrZ0 j0 a0 b0 c0 d0 e0 g0 t0 Va1 Vb0 Vc0 Vd0 Vx0 Vy0  Vm5 u10 n"DSC00286.JPG"
+#-hugin  cropFactor=1.5
+i w3872 h2592 f0 v=0 Ra=0 Rb=0 Rc=0 Rd=0 Re=0 Eev10.580494060253 Er1 Eb1 r0 p2.99917189332051 y176.691956666145 TrX-0.185276801407672 TrY0.00608749202863148 TrZ0 j0 a=0 b=0 c=0 d=0 e=0 g=0 t=0 Va=0 Vb=0 Vc=0 Vd=0 Vx=0 Vy=0  Vm5 u10 n"DSC00287.JPG"
+#-hugin  cropFactor=1.5
+i w3872 h2592 f0 v=0 Ra=0 Rb=0 Rc=0 Rd=0 Re=0 Eev10.580494060253 Er1 Eb1 r0 p34.0131779681496 y145.271949122782 TrX-0.185276801407672 TrY0.00608749202863148 TrZ0 j0 a=0 b=0 c=0 d=0 e=0 g=0 t=0 Va=0 Vb=0 Vc=0 Vd=0 Vx=0 Vy=0  Vm5 u10 n"DSC00288.JPG"
+
+
+# specify variables that should be optimized
+v r0
+v p0
+v y0
+v r1
+v p1
+v y1
+v r2
+v p2
+v y2
+v
+
+
+# control points
+c n0 N1 x3497 y1644 X890 Y1645 t0
+c n0 N1 x3153 y1457 X575.203427335378 Y1451.40605265029 t0
+c n1 N2 x2958 y1665 X647.825870774881 Y1691.09441594429 t0
+c n1 N2 x2742 y1452 X430.657815313729 Y1466.69899096847 t0
+
+#hugin_optimizeReferenceImage 0
+#hugin_blender enblend
+#hugin_remapper nona
+#hugin_enblendOptions 
+#hugin_enfuseOptions 
+#hugin_hdrmergeOptions -m avg -c
+#hugin_outputLDRBlended true
+#hugin_outputLDRLayers false
+#hugin_outputLDRExposureRemapped false
+#hugin_outputLDRExposureLayers false
+#hugin_outputLDRExposureBlended false
+#hugin_outputLDRExposureLayersFused false
+#hugin_outputHDRBlended false
+#hugin_outputHDRLayers false
+#hugin_outputHDRStacks false
+#hugin_outputLayersCompression LZW
+#hugin_outputImageType tif
+#hugin_outputImageTypeCompression LZW
+#hugin_outputJPEGQuality 90
+#hugin_outputImageTypeHDR exr
+#hugin_outputImageTypeHDRCompression LZW
