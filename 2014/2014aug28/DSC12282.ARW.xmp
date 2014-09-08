@@ -45,10 +45,14 @@
      <rdf:li>2</rdf:li>
      <rdf:li>3</rdf:li>
      <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -61,6 +65,8 @@
      <rdf:li>basecurve</rdf:li>
      <rdf:li>lens</rdf:li>
      <rdf:li>clipping</rdf:li>
+     <rdf:li>bilat</rdf:li>
+     <rdf:li>exposure</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -69,10 +75,14 @@
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>gz02eJyzZoCBBnsGhgNAPMGRgSHBESTCCMTBPiG6jubmYXBlGQWMKDQU8B5ymuZUD2RUrGEGm6bkxAKiC95tAqs7YRA+7T9QvmBRE1g+QRkifyAJYo5YzOqpIP0w/o5YCD84P69SwSVEwdBC19Q0N1fBzVjPVNdUz0wh2NEXiH2AEqamQPUK8VxgfQJzORiRzZ2wGGIfujzc1+sSwfKbT0Hs+w8FjFD/I8KmwR4AZQE5og==</rdf:li>
      <rdf:li>00000000d853383e00000000a49d363f0000803f0000000000000000c0bf3c3ed167433ed67c303fcaf3593e162a5e3f802e7d3f60628d3d4213773f010000000000000001000000010000000000000000000000</rdf:li>
+     <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
+     <rdf:li>6712833b000000000000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -85,6 +95,8 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
@@ -93,10 +105,14 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
+     <rdf:li/>
+     <rdf:li/>
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>

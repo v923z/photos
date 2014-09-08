@@ -107,6 +107,7 @@
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -118,6 +119,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -135,6 +137,7 @@
      <rdf:li>spots</rdf:li>
      <rdf:li>spots</rdf:li>
      <rdf:li>colisa</rdf:li>
+     <rdf:li>temperature</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -149,6 +152,7 @@
      <rdf:li>gz19eJyb4sgTIuzEE9IBxAwjEDANtAMGGAAAHDUDFw==</rdf:li>
      <rdf:li>gz25eJz77sQTwjCCAdNAO2CAAQA01wGc</rdf:li>
      <rdf:li>000000000000000010d7a33d</rdf:li>
+     <rdf:li>00409c45a7ac35400000803f134da43f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -163,10 +167,12 @@
      <rdf:li>gz10eJxjZGBgkGAAgVVOIHKeI08IA0HQYA/BI4sPABMvGiU=</rdf:li>
      <rdf:li>gz10eJxjZGBgkGAAAQEnEMnkzBPCQBA02EPwyOIDALnDGPE=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -191,6 +197,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -204,6 +211,7 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li>1</rdf:li>
+     <rdf:li/>
      <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
