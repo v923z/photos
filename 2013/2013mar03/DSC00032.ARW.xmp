@@ -4,35 +4,72 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
    darktable:xmp_version="1"
-   darktable:raw_params="0">
+   darktable:raw_params="0"
+   darktable:auto_presets_applied="0"
+   xmpMM:DerivedFrom="DSC00032.ARW">
    <darktable:colorlabels>
     <rdf:Seq/>
    </darktable:colorlabels>
+   <darktable:mask_id>
+    <rdf:Seq/>
+   </darktable:mask_id>
+   <darktable:mask_type>
+    <rdf:Seq/>
+   </darktable:mask_type>
+   <darktable:mask_name>
+    <rdf:Seq/>
+   </darktable:mask_name>
+   <darktable:mask_version>
+    <rdf:Seq/>
+   </darktable:mask_version>
+   <darktable:mask>
+    <rdf:Seq/>
+   </darktable:mask>
+   <darktable:mask_nb>
+    <rdf:Seq/>
+   </darktable:mask_nb>
+   <darktable:mask_src>
+    <rdf:Seq/>
+   </darktable:mask_src>
    <darktable:history_modversion>
-    <rdf:Bag/>
+    <rdf:Seq/>
    </darktable:history_modversion>
    <darktable:history_enabled>
-    <rdf:Bag/>
+    <rdf:Seq/>
    </darktable:history_enabled>
    <darktable:history_operation>
-    <rdf:Bag/>
+    <rdf:Seq/>
    </darktable:history_operation>
    <darktable:history_params>
-    <rdf:Bag/>
+    <rdf:Seq/>
    </darktable:history_params>
    <darktable:blendop_params>
-    <rdf:Bag/>
+    <rdf:Seq/>
    </darktable:blendop_params>
-   <dc:subject>
+   <darktable:blendop_version>
     <rdf:Seq/>
-   </dc:subject>
+   </darktable:blendop_version>
+   <darktable:multi_priority>
+    <rdf:Seq/>
+   </darktable:multi_priority>
+   <darktable:multi_name>
+    <rdf:Seq/>
+   </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Andris</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Andris</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
