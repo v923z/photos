@@ -9,9 +9,9 @@
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC03672.ARW"
-   exif:GPSLongitude="11,5.728700E"
-   exif:GPSLatitude="46,54.412533N"
+   xmpMM:DerivedFrom="DSC03674.ARW"
+   exif:GPSLongitude="11,5.730917E"
+   exif:GPSLatitude="46,54.414100N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
@@ -43,6 +43,8 @@
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
@@ -59,10 +61,14 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
     <rdf:Seq>
+     <rdf:li>sharpen</rdf:li>
+     <rdf:li>basecurve</rdf:li>
      <rdf:li>sharpen</rdf:li>
      <rdf:li>basecurve</rdf:li>
      <rdf:li>nlmeans</rdf:li>
@@ -74,6 +80,8 @@
    </darktable:history_operation>
    <darktable:history_params>
     <rdf:Seq>
+     <rdf:li>000000400000003f0000003f</rdf:li>
+     <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
@@ -92,10 +100,14 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -114,10 +126,14 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
+     <rdf:li/>
+     <rdf:li/>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
@@ -128,22 +144,10 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Timmelsjoch</rdf:li>
-     <rdf:li>nature</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>mountain</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq>
-     <rdf:li>Timmelsjoch</rdf:li>
-     <rdf:li>nature</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>mountain</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

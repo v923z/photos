@@ -9,9 +9,9 @@
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC03672.ARW"
-   exif:GPSLongitude="11,5.728700E"
-   exif:GPSLatitude="46,54.412533N"
+   xmpMM:DerivedFrom="DSC03678.ARW"
+   exif:GPSLongitude="11,5.773450E"
+   exif:GPSLatitude="46,54.365550N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
@@ -48,6 +48,7 @@
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>4</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -59,6 +60,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -70,6 +72,7 @@
      <rdf:li>vibrance</rdf:li>
      <rdf:li>velvia</rdf:li>
      <rdf:li>shadhi</rdf:li>
+     <rdf:li>velvia</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -81,10 +84,12 @@
      <rdf:li>0000c841</rdf:li>
      <rdf:li>0000c8410000803f</rdf:li>
      <rdf:li>000000000000c8c2ee51d841000000005c8fcac100000000000048420000c842000048427f000000bd378635</rdf:li>
+     <rdf:li>0000c8410000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -103,10 +108,12 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -125,25 +132,14 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Timmelsjoch</rdf:li>
-     <rdf:li>nature</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>mountain</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq>
-     <rdf:li>Timmelsjoch</rdf:li>
-     <rdf:li>nature</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>mountain</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
