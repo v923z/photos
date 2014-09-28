@@ -9,9 +9,9 @@
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC10098.ARW"
-   exif:GPSLongitude="17,29.207150E"
-   exif:GPSLatitude="46,43.021217N"
+   xmpMM:DerivedFrom="DSC08837.ARW"
+   exif:GPSLongitude="12,20.129350E"
+   exif:GPSLatitude="45,26.282717N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
@@ -44,13 +44,19 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>5</rdf:li>
      <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -63,24 +69,33 @@
     <rdf:Seq>
      <rdf:li>sharpen</rdf:li>
      <rdf:li>basecurve</rdf:li>
-     <rdf:li>nlmeans</rdf:li>
-     <rdf:li>bilat</rdf:li>
      <rdf:li>velvia</rdf:li>
-     <rdf:li>vibrance</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>shadhi</rdf:li>
+     <rdf:li>bilat</rdf:li>
+     <rdf:li>exposure</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>nlmeans</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
     <rdf:Seq>
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>00000040000048420000003f0000803f</rdf:li>
-     <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>0000c8410000803f</rdf:li>
-     <rdf:li>0000c841</rdf:li>
+     <rdf:li>0000003fae661c3da1122d3c79f56a3f40c17c3f000000000000000088e2113dd06c093ebd7a753fdcc1653ee7987e3fc5da2c3f88e2113d6e2f693f010000000000000001000000010000000000000000000000</rdf:li>
+     <rdf:li>000000000000c8c2b81eaf4100000000000048c200000000000048420000c842000048427f000000bd378635</rdf:li>
+     <rdf:li>0000a041000048429899993e</rdf:li>
+     <rdf:li>6012033b000000000000803f</rdf:li>
+     <rdf:li>0000003f6042283ba1122d3cea696d3f00a16c3f0000000000000000d0c5be3c10db673ebd7a753fdcc1653e39a67f3ffa3f553f008db33c04fd643f030000000000000001000000010000000000000000000000</rdf:li>
+     <rdf:li>00000040000048420000003f0000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -97,10 +112,16 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -117,13 +138,39 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>blue hour</rdf:li>
+     <rdf:li>Grand Canal</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>dusk</rdf:li>
+     <rdf:li>Rialto bridge</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>Venice</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Rialto bridge blue hour</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>blue hour</rdf:li>
+     <rdf:li>Grand Canal</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>dusk</rdf:li>
+     <rdf:li>Rialto bridge</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>Venice</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
