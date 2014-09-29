@@ -146,7 +146,6 @@
      <rdf:li>Mittenwald</rdf:li>
      <rdf:li>forest</rdf:li>
      <rdf:li>Andris</rdf:li>
-     <rdf:li>Orsi</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
@@ -155,7 +154,6 @@
      <rdf:li>Mittenwald</rdf:li>
      <rdf:li>forest</rdf:li>
      <rdf:li>Andris</rdf:li>
-     <rdf:li>Orsi</rdf:li>
     </rdf:Seq>
    </dc:subject>
   </rdf:Description>

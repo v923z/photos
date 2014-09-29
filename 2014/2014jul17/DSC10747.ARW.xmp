@@ -5,16 +5,13 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC10747.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="0">
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -36,6 +33,9 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
+   <darktable:colorlabels>
+    <rdf:Seq/>
+   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq/>
    </darktable:history_modversion>
@@ -60,12 +60,12 @@
    <darktable:multi_name>
     <rdf:Seq/>
    </darktable:multi_name>
-   <dc:subject>
-    <rdf:Seq/>
-   </dc:subject>
    <lr:hierarchicalSubject>
     <rdf:Seq/>
    </lr:hierarchicalSubject>
+   <dc:subject>
+    <rdf:Seq/>
+   </dc:subject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

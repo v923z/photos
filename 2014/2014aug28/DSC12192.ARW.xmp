@@ -172,10 +172,22 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Wolfsgruber See</rdf:li>
+     <rdf:li>forest</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+     <rdf:li>Anna</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Wolfsgruber See</rdf:li>
+     <rdf:li>forest</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+     <rdf:li>Anna</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

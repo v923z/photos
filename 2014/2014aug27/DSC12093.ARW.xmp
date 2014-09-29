@@ -197,10 +197,20 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Museion</rdf:li>
+     <rdf:li>Bozen</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Museion</rdf:li>
+     <rdf:li>Bozen</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

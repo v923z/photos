@@ -18,6 +18,12 @@
      <rdf:li>1409506090</rdf:li>
      <rdf:li>1409506232</rdf:li>
      <rdf:li>1409506246</rdf:li>
+     <rdf:li>1410084053</rdf:li>
+     <rdf:li>101</rdf:li>
+     <rdf:li>102</rdf:li>
+     <rdf:li>100</rdf:li>
+     <rdf:li>1410084055</rdf:li>
+     <rdf:li>103</rdf:li>
     </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
@@ -26,6 +32,12 @@
      <rdf:li>64</rdf:li>
      <rdf:li>64</rdf:li>
      <rdf:li>4</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>12</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>12</rdf:li>
     </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
@@ -34,10 +46,22 @@
      <rdf:li>brush #1</rdf:li>
      <rdf:li>brush #3</rdf:li>
      <rdf:li>grp exposure 1</rdf:li>
+     <rdf:li>circle #5</rdf:li>
+     <rdf:li>circle #7</rdf:li>
+     <rdf:li>circle #8</rdf:li>
+     <rdf:li>grp spot removal  </rdf:li>
+     <rdf:li>circle #9</rdf:li>
+     <rdf:li>grp spot removal  </rdf:li>
     </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -50,6 +74,12 @@
      <rdf:li>gz02eJxjMNto16mYYecnvNGuqtzNbkvERruzT1vsWmWv24Dw+qPL7XivK9szMjAwSM/baHe3f5ndoZ6NdgUf59qVrN9o56O3HqfaqOPL7UB0dSWEthJdgVOtZPIKsBp9fQjNMh232lv/IGo+nILQx4xW4lQ7a9ZKsJoNaRC65RxutZFmq8Bq8pkgtEvWKpxqJS6tsgvK22R3XmKl3eOzG+ySutdgVXt+zxo7wb4tdgnz1tpt5thsZ3d7tV2B8DasareErLEL+rTZLqN8jZ2d2hY7BqM1dhn7NmNVCwBJm7D5</rdf:li>
      <rdf:li>gz02eJx7ULfBjlMszW4D50a7f732dgJf1ttx+7fZtcpetwHhC2d87HmvK9szMjAwFN5bZyd2fY2d/9z1dvWGi+ymyK+zW1ezHavaDaxr7Ca+2WSnVr/GjuP8RjvrntV20lxbcKoN6NhsB6LTQiC09Z7NWNUCAG81RMk=</rdf:li>
      <rdf:li>b85b0354c65b0354030000000000803f</rdf:li>
+     <rdf:li>9b764b3f6ed62a3f6446ab3c00000000</rdf:li>
+     <rdf:li>903a4c3fcbce333fbf259a3c00000000</rdf:li>
+     <rdf:li>dcfe4a3fc15a2f3f354ebe3c00000000</rdf:li>
+     <rdf:li>d52c0c5464000000030000000000803f65000000640000000b0000000000803f66000000640000000b0000000000803f</rdf:li>
+     <rdf:li>802e423b4cff213eeaf0463d00000000</rdf:li>
+     <rdf:li>d72c0c5467000000030000000000803f</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
@@ -57,6 +87,12 @@
      <rdf:li>1</rdf:li>
      <rdf:li>10</rdf:li>
      <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:mask_nb>
@@ -66,6 +102,12 @@
      <rdf:li>427f000000000000</rdf:li>
      <rdf:li>427f000000000000</rdf:li>
      <rdf:li>427f0000b009b13e</rdf:li>
+     <rdf:li>38be463fe4b72e3f</rdf:li>
+     <rdf:li>8f9d463f3a20343f</rdf:li>
+     <rdf:li>60ef453f565f303f</rdf:li>
+     <rdf:li>517f0000600230f4</rdf:li>
+     <rdf:li>b09bc43c18d0233e</rdf:li>
+     <rdf:li>517f000000000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
    <darktable:colorlabels>
@@ -192,10 +234,20 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Wolfsgruber See</rdf:li>
+     <rdf:li>forest</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Wolfsgruber See</rdf:li>
+     <rdf:li>forest</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
