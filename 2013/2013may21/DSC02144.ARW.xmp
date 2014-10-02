@@ -15,9 +15,6 @@
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -39,6 +36,9 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
+   <darktable:colorlabels>
+    <rdf:Seq/>
+   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -139,14 +139,12 @@
     <rdf:Seq>
      <rdf:li>Jesolo</rdf:li>
      <rdf:li>see</rdf:li>
-     <rdf:li>Andris</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Jesolo</rdf:li>
      <rdf:li>see</rdf:li>
-     <rdf:li>Andris</rdf:li>
     </rdf:Seq>
    </dc:subject>
   </rdf:Description>
