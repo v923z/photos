@@ -162,6 +162,7 @@
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -178,6 +179,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -202,6 +204,7 @@
      <rdf:li>spots</rdf:li>
      <rdf:li>spots</rdf:li>
      <rdf:li>spots</rdf:li>
+     <rdf:li>lowpass</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -222,6 +225,7 @@
      <rdf:li>gz25eJy7EqMawjCCAdNAO2CAAQBUiwGs</rdf:li>
      <rdf:li>gz25eJxjiFUNYRjBgGmgHTDAAACubADZ</rdf:li>
      <rdf:li>gz25eJxzjFUNYRjBgGmgHTDAAAAwewEa</rdf:li>
+     <rdf:li>00000000d7a39e410000803f000000000000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -242,10 +246,12 @@
      <rdf:li>gz10eJxjYGBgkGAAgRNOIPJ6jGoIA0HQYA/BI4sPAKyeGq8=</rdf:li>
      <rdf:li>gz10eJxjZGBgkGAAgUVOIJIpVjWEgSBosIfgkcUHAJd+GbY=</rdf:li>
      <rdf:li>gz10eJxjZGBgkGAAgQUOINI5VjWEgSBosIfgkcUHANsUGfM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -282,26 +288,28 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>3</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li/>
      <rdf:li>3</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>3</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>5</rdf:li>
      <rdf:li>6</rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
