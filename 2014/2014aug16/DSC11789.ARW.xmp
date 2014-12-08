@@ -13,52 +13,141 @@
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
    <darktable:mask_id>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1417446947</rdf:li>
+     <rdf:li>1417446993</rdf:li>
+     <rdf:li>1417447004</rdf:li>
+     <rdf:li>1417447024</rdf:li>
+     <rdf:li>1417446949</rdf:li>
+     <rdf:li>1417447046</rdf:li>
+    </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>9</rdf:li>
+     <rdf:li>12</rdf:li>
+     <rdf:li>9</rdf:li>
+    </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>circle #1</rdf:li>
+     <rdf:li>circle #3</rdf:li>
+     <rdf:li>circle #4</rdf:li>
+     <rdf:li>circle #5</rdf:li>
+     <rdf:li>grp spot removal </rdf:li>
+     <rdf:li>circle #6</rdf:li>
+    </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+    </rdf:Seq>
    </darktable:mask_version>
    <darktable:mask>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>d2b1a03e5ffb1e3fa202193c0676073c</rdf:li>
+     <rdf:li>d2b1a03e8d25223fa202193c0676073c</rdf:li>
+     <rdf:li>61e09c3ea0d5203f6ff9bb3b0676073c</rdf:li>
+     <rdf:li>ccfa9c3ec5351e3f6ff9bb3b0676073c</rdf:li>
+     <rdf:li>23867c5425867c54030000000000803f51867c5425867c540b0000000000803f5c867c5425867c540b0000000000803f70867c5425867c540b0000000000803f86867c5425867c540b0000000000803f</rdf:li>
+     <rdf:li>c07bc93b9b2bc83ec8d4a33c8182b33c</rdf:li>
+    </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
+    </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>9e0da93eef711f3f</rdf:li>
+     <rdf:li>9e0da93ee810213f</rdf:li>
+     <rdf:li>e91a943e5a1f1b3f</rdf:li>
+     <rdf:li>663f923e32d11b3f</rdf:li>
+     <rdf:li>267f00002850ed02</rdf:li>
+     <rdf:li>f0f6133d28f5b33e</rdf:li>
+    </rdf:Seq>
    </darktable:mask_src>
    <darktable:colorlabels>
     <rdf:Seq/>
    </darktable:colorlabels>
    <darktable:history_modversion>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+    </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>spots</rdf:li>
+     <rdf:li>sharpen</rdf:li>
+     <rdf:li>bilat</rdf:li>
+     <rdf:li>velvia</rdf:li>
+    </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>gz17eJxTbqsJCQTiGCAuAOI2IGYYQYBpoB0wwAAAmVoIdw==</rdf:li>
+     <rdf:li>000000400000003f0000003f</rdf:li>
+     <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
+     <rdf:li>0000c8410000803f</rdf:li>
+    </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>gz10eJxjYGBgkGAAgRNOIFK1rSaEgSBosIfgkcUHAHVqGn4=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+    </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+    </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+    </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+    </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
     <rdf:Seq/>
