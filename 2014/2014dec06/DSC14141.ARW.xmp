@@ -192,7 +192,16 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>morning</rdf:li>
+     <rdf:li>Seine</rdf:li>
+     <rdf:li>Eiffel tower</rdf:li>
+     <rdf:li>Paris</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>blue hour</rdf:li>
+     <rdf:li>ship</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
@@ -200,7 +209,16 @@
     </rdf:Alt>
    </dc:title>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>morning</rdf:li>
+     <rdf:li>Seine</rdf:li>
+     <rdf:li>Eiffel tower</rdf:li>
+     <rdf:li>Paris</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>blue hour</rdf:li>
+     <rdf:li>ship</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
