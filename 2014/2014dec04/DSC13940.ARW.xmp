@@ -93,10 +93,10 @@
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -129,10 +129,10 @@
      <rdf:li>spots</rdf:li>
      <rdf:li>velvia</rdf:li>
      <rdf:li>vibrance</rdf:li>
-     <rdf:li>splittoning</rdf:li>
      <rdf:li>shadhi</rdf:li>
-     <rdf:li>splittoning</rdf:li>
      <rdf:li>clipping</rdf:li>
+     <rdf:li>splittoning</rdf:li>
+     <rdf:li>exposure</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -147,10 +147,10 @@
      <rdf:li>gz16eJwzWTkvZDsQnwNihlXzQjSAmGEEAaaBdsAAAwB+lgnt</rdf:li>
      <rdf:li>0000c8410000803f</rdf:li>
      <rdf:li>0000c841</rdf:li>
-     <rdf:li>1f852b3f0000003fcdcc4c3e0000003faaf1d23eec514041</rdf:li>
      <rdf:li>000000000000c8c20000484200000000000048c200000000000048420000c842000048427f000000bd378635</rdf:li>
-     <rdf:li>1f852b3f0000003fcdcc4c3e0000003fb3eaf33eec514041</rdf:li>
      <rdf:li>00000000487aaf3d000040340000803f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
+     <rdf:li>1f852b3f0000003fcdcc4c3e0000003fa60a063fec514041</rdf:li>
+     <rdf:li>00000000040000bf0000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -226,10 +226,35 @@
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>leading line</rdf:li>
+     <rdf:li>pyramid</rdf:li>
+     <rdf:li>Louvre</rdf:li>
+     <rdf:li>lamp</rdf:li>
+     <rdf:li>arch</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Triangulation</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>leading line</rdf:li>
+     <rdf:li>pyramid</rdf:li>
+     <rdf:li>Louvre</rdf:li>
+     <rdf:li>lamp</rdf:li>
+     <rdf:li>arch</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

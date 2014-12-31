@@ -180,6 +180,11 @@
      <rdf:li>leaf</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Leaf with a view</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Seine</rdf:li>

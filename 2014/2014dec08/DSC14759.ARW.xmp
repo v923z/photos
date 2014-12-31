@@ -49,8 +49,8 @@
      <rdf:li>5</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -77,8 +77,8 @@
      <rdf:li>clipping</rdf:li>
      <rdf:li>velvia</rdf:li>
      <rdf:li>bilat</rdf:li>
-     <rdf:li>colisa</rdf:li>
      <rdf:li>shadhi</rdf:li>
+     <rdf:li>graduatednd</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -91,8 +91,8 @@
      <rdf:li>7000803e00000000000000000000803f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
      <rdf:li>00002041cdcccc3e</rdf:li>
      <rdf:li>0000f041000048423989013f</rdf:li>
-     <rdf:li>000000000000000000d7233d</rdf:li>
-     <rdf:li>000000000000c8c2ee51d84100000000a47045c200000000000048420000c842000048427f000000bd378635</rdf:li>
+     <rdf:li>000000000000c8c2e07a9a4100000000000048c200000000000048420000c842000048427f000000bd378635</rdf:li>
+     <rdf:li>0000803f00004842affdb33e5a4a68410000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>

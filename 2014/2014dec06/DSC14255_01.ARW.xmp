@@ -17,8 +17,15 @@
      <rdf:li>1418404016</rdf:li>
      <rdf:li>1418404018</rdf:li>
      <rdf:li>1418404036</rdf:li>
-     <rdf:li>1418404872</rdf:li>
      <rdf:li>1418404828</rdf:li>
+     <rdf:li>1419881990</rdf:li>
+     <rdf:li>1419882163</rdf:li>
+     <rdf:li>1419882172</rdf:li>
+     <rdf:li>1419882266</rdf:li>
+     <rdf:li>1419883762</rdf:li>
+     <rdf:li>1419883825</rdf:li>
+     <rdf:li>1419883971</rdf:li>
+     <rdf:li>1419884001</rdf:li>
     </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
@@ -26,8 +33,15 @@
      <rdf:li>9</rdf:li>
      <rdf:li>12</rdf:li>
      <rdf:li>9</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>64</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
@@ -35,12 +49,26 @@
      <rdf:li>circle #1</rdf:li>
      <rdf:li>grp spot removal </rdf:li>
      <rdf:li>circle #3</rdf:li>
-     <rdf:li>grp exposure </rdf:li>
      <rdf:li>path #4</rdf:li>
+     <rdf:li>path #5</rdf:li>
+     <rdf:li>path #6</rdf:li>
+     <rdf:li>grp exposure </rdf:li>
+     <rdf:li>path #8</rdf:li>
+     <rdf:li>path #9</rdf:li>
+     <rdf:li>path #10</rdf:li>
+     <rdf:li>brush #11</rdf:li>
+     <rdf:li>grp exposure </rdf:li>
     </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -53,8 +81,15 @@
      <rdf:li>c25fa93ee546723fd27d4f3c91c8c73b</rdf:li>
      <rdf:li>b0208b54b2208b54030000000000803fc4208b54b2208b540b0000000000803f</rdf:li>
      <rdf:li>ae9d963dbc70723fa8e5a83c41616a3c</rdf:li>
-     <rdf:li>dc238b5408248b54030000000000803f</rdf:li>
      <rdf:li>gz02eJxVzU1Ik3EAx/HpXphFL1aWWq3aY2vVyhjucXse9v8ai3Cg5MFDJDRI0BgtDRkLKnbw4CERQhCNJZFQsA51iYSgiIYWJmYGPr14KEztkFnRC7JB7SL+D9/bh9/v63cLS0c7uNuzHncsTiT9WwxvvcCa6SE9X4HJZNqfsBIuiVKXsHFy7By2hAUt0ioZ/VNO9ObO8LeokDuZVrru/xFJ9bRktmc+i8loPVr1vPigNpJtmBUjg8cxPzX0fHmTrPwl6n0al29/E8/Gg3QOLwsjpUo7266YKTaqGXUX0KcEOTtppafbK5lb1+z428vxdFlR+xXKUmvRa4sl8/FRCY4FE67nGzlcZiZ1r5wd53NitbHVungbXocrthsjamfe6eGde5O0s2fGj+J0UBFRWV4oxdGkU9ekSOaH7uP1TQ/7xqvw2g/wOO2jI1Apmbm4zuyDQ9Q8CfCy5SBXPUGyliOSedMJkUsa7T8Fr6Z8+LfUsOhEMhiCwFCYwS+w+WGIbHeQUPLEiin8b9pehPDujbJTHEPLtDC2IcQuYpK5rsBAaYL3qTATvXFOpatovnFR+voH12XHwQ==</rdf:li>
+     <rdf:li>gz02eJybyMhuf91Gyn6PKLt9XJySfdpbNvsAaSH7yAm1diDMyMDAMHGHoL3vc0b7RX847XO8me0bSiTtDZoZUNToZJraKz8RtGeboW/Pe4ndPtjK2t7ymzSKmur5JvYXg+3sReqs7PPuWNg/PqBnb3baGUXNVEMh+8oNRvbPT0va+22xsHeZzmW/ZI0OihoAv8s5JQ==</rdf:li>
+     <rdf:li>gz02eJyb+Zndfp+clP3WG+z2j5iV7ev4OOxnWQraR06otQNhRgYGhmhLAfuSGwz2NlHc9lbeLPbVEqL2cad/2SGrCdNTtVfKY7U/ky5nH3P0v92DL9r2035yoZgz54GFvZaskr18hrk9m4WkvVSklb0fkzaKGndGPfs/Z6zstz0ysfcpNre/Ia9uv07NDkUNwwx+e19zM/t570Xt1620tk924LR/d8QARQ0AE1BEQQ==</rdf:li>
+     <rdf:li>b3aea154bcaea154030000000000803f</rdf:li>
+     <rdf:li>gz02eJy7GPLfLnuynr2TPYP9pf0W9rLa/+xY0lXsIyfU2oEwIwMDg4oEt73iZyb7y7dZ7C/EcdmXhwjaP+H7boesJkRE1T6El8n+poasPV/oT7sL/3XsFQvYUcxhm2tl/8FZ2T6l0Mz+2j5x+5Un7Ox5Tuqh2iVlZ/9J293+aIGrfWSSk33LYTP73q/eKGqcpvLZd/+1tzf/K2H/TczF3k+XxV7hiTWKGgCJhUdJ</rdf:li>
+     <rdf:li>gz02eJwz5/1pt+91nD27Dqe9jmK8fcKh+3ZB2+LsIyfU2oEwIwMDQ/yp53bqE+LsWSJf2fWpJ9vvsn5qd+hHJIqayK0v7cLine0ZbJ7Y3Xjmab9Z773d5es2KGqsA1nsxZPN7d0eMtr/KbazNzjIZm8cZICiJreK2f7HTwn7Ci5Ge9blivbJr1jt3/gIoKj59UHI/mwIs33PAl77RUtY7LMcJex/sTChqGGLVbZnkBa0v/5IwT5uGq+92XVV+0XzRVDUSJxTtJ9RIGH/uFvBfsVaCXtfAWX7TmMJFDWur7Tsl67ht3fIVreX+MZj752pZ2+cLISixuqEmf2r7Rr2EwpN7Rv6le2fyFnYhz3QRVHj/MnIXnW+nn3afkN7k3htewVVE3ux+4YoajJ+2tr3mNvYz8i3sW+ZYW5v3mxvP+WaA4oaOV0b+7BIL/v0B9b2VVku9tcqbeyNPQJQ1Gw9am+/40K8fVmil/2fpBj7L5qm9iV2yShqAHpNqXo=</rdf:li>
+     <rdf:li>gz02eJy7sErMXpjHwN6qU9KeeaexfdoZYXuVeB372KTpdiDMyMDA8Fhcyr6PQcl+0z4J+6avKvYihdL2s7nlUdT8OChnH+cnZz/JRMb+X7Osfby/ov0BCVQ1Xhma9lf3qdnrnFG313BQsc9g0bZvstVEUbMuS8M+103XXuOjuv2Ncm17kyca9syi+ihq8hx17EOnGdqrHdO2Tzilb799j469V5IxippEP217TT4L+5rnevb3/S3s3beq2xefMUdRAwAS8E0k</rdf:li>
+     <rdf:li>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</rdf:li>
+     <rdf:li>c3b5a154e1b5a154030000000000803f</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
@@ -62,8 +97,15 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
      <rdf:li>16</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>6</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>6</rdf:li>
+     <rdf:li>14</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>172</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
@@ -71,8 +113,15 @@
      <rdf:li>6f35ba3ee546723f</rdf:li>
      <rdf:li>567f000078610303</rdf:li>
      <rdf:li>fa71eb3d3bf3713f</rdf:li>
-     <rdf:li>567f00002b9af33e</rdf:li>
      <rdf:li>31521d3f488a833f</rdf:li>
+     <rdf:li>d1f91f3f8431303f</rdf:li>
+     <rdf:li>338d213f58b8333f</rdf:li>
+     <rdf:li>bd7f00007e0e083f</rdf:li>
+     <rdf:li>0910183f9ff8493f</rdf:li>
+     <rdf:li>7c04163f3ba6783f</rdf:li>
+     <rdf:li>cbfc193f4ee54f3f</rdf:li>
+     <rdf:li>000000006e646976</rdf:li>
+     <rdf:li>bd7f000040c27b04</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
    <darktable:colorlabels>
@@ -80,17 +129,6 @@
    </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
-     <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>5</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
      <rdf:li>5</rdf:li>
      <rdf:li>2</rdf:li>
     </rdf:Seq>
@@ -99,83 +137,28 @@
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
     <rdf:Seq>
-     <rdf:li>sharpen</rdf:li>
-     <rdf:li>basecurve</rdf:li>
-     <rdf:li>clipping</rdf:li>
-     <rdf:li>nlmeans</rdf:li>
-     <rdf:li>spots</rdf:li>
-     <rdf:li>bilat</rdf:li>
-     <rdf:li>velvia</rdf:li>
-     <rdf:li>colisa</rdf:li>
-     <rdf:li>temperature</rdf:li>
-     <rdf:li>nlmeans</rdf:li>
-     <rdf:li>exposure</rdf:li>
      <rdf:li>clipping</rdf:li>
      <rdf:li>exposure</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
     <rdf:Seq>
-     <rdf:li>000000400000003f0000003f</rdf:li>
-     <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>000000004d1b423d00000000e5ff7f3f30de733f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000001000000</rdf:li>
-     <rdf:li>00000040000048420000003f0000803f</rdf:li>
-     <rdf:li>gz22eJzboNAdcgSIGUYoYBpoBwwwAADc6gN1</rdf:li>
-     <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
-     <rdf:li>0000c8410000803f</rdf:li>
-     <rdf:li>00d7233d00000000b047e13d</rdf:li>
-     <rdf:li>00409c45859329400000803f3ea4b73f</rdf:li>
-     <rdf:li>000000400000b0410000003f0000803f</rdf:li>
-     <rdf:li>00000000295c0fc10000803f</rdf:li>
-     <rdf:li>0000000047e2e03ea216f43e480d493f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
+     <rdf:li>000000006aaee63eb693e93e997e493f2cf6603f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
      <rdf:li>0000000079be83c00000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz10eJxjYGBgkGAAgRNOIHKTQncIA0HQYA/BI4sPALGaGrQ=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz06eJxjZ2BgkGAAgRNObECSQ6U7hEHgf/nZMz2ODDhBgz0ED03+8UIb+5tNviTrBwC0hyAj</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz03eJxjZ2BgkGAAgRNObECSQ6U7RFD0XfGsmT8dGNDAxg0Gto0NDHYnjh0DY4RMgz0E4+evXKFhB8Lr160DY1L1L/hy0g6EK8q/gzEu9dUienYgjC5vYvzZDoSn2GXagzCp9gMAjgQ4YQ==</rdf:li>
+     <rdf:li>gz06eJxjZ2BgkGAAgRNOIPLh1oUhDIwMjLNmSjow4AQN9hBMX779S2H7sFBR++OFMvbRG1Tpbj8AP7ohIA==</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
     </rdf:Seq>
@@ -184,32 +167,10 @@
     <rdf:Seq>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li/>
      <rdf:li/>
     </rdf:Seq>
