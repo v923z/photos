@@ -49,6 +49,7 @@
      <rdf:li>2</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -60,6 +61,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
@@ -73,6 +75,7 @@
      <rdf:li>nlmeans</rdf:li>
      <rdf:li>tonecurve</rdf:li>
      <rdf:li>bilat</rdf:li>
+     <rdf:li>atrous</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -85,6 +88,7 @@
      <rdf:li>00004040000048420000003f0000803f</rdf:li>
      <rdf:li>gz08eJxjYIAAruuLbUH47JkzdiA8a6akPQjLt2aDMQNDAxQPDIC5b9bMmXYgDBQCucXe2NgYjAfanYPVfWxAzA7FyIARiQYAm30ryw==</rdf:li>
      <rdf:li>0000c841000048421e856b3e</rdf:li>
+     <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9r8XuT2bFioHKsOOFpgB02zEAiAADoY0TC</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -97,10 +101,12 @@
      <rdf:li>gz08eJxjZWBgkGAAgRNODFDACKEcGHCA14E7bEEYIdJgD8HDmw8A5FUcLQ==</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -121,6 +127,7 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -133,18 +140,35 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>abbey</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
-     <rdf:li xml:lang="x-default">A door to...</rdf:li>
+     <rdf:li xml:lang="x-default">First glimpse of Mont Saint-Michel in peril of the sea</rdf:li>
     </rdf:Alt>
    </dc:title>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>abbey</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

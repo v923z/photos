@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC14481.ARW"
@@ -53,6 +53,8 @@
      <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -66,6 +68,8 @@
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -85,6 +89,8 @@
      <rdf:li>splittoning</rdf:li>
      <rdf:li>tonecurve</rdf:li>
      <rdf:li>clipping</rdf:li>
+     <rdf:li>atrous</rdf:li>
+     <rdf:li>temperature</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -101,10 +107,14 @@
      <rdf:li>52b81e3f1f856b3ecdcc4c3e0000003f8195c33e00000442</rdf:li>
      <rdf:li>gz06eJxjYICAcvFa669/NltdSOewY77w1NY+e5ndCreddgESofZT1qXYMzA0QPHAAK7ri21BeNbMmXYgDBQCucXe2NgYjOVbs8F4oNw5WN3HBsTsUIwMGJFoAHvBKzs=</rdf:li>
      <rdf:li>00000000808f773d00000000e43d7e3f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fc87b3c3e40e94e3f010000000000000001000000010000000000000000000000</rdf:li>
+     <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcc0YdqwYqBwrnjEz0g4bZiARAAB6fz74</rdf:li>
+     <rdf:li>00409c45b51e1f400000803f7576cb3f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -133,10 +143,14 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -165,13 +179,34 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Inn to the White Sheep</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

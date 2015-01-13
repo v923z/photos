@@ -50,10 +50,16 @@
      <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -76,6 +82,9 @@
      <rdf:li>tonecurve</rdf:li>
      <rdf:li>nlmeans</rdf:li>
      <rdf:li>cacorrect</rdf:li>
+     <rdf:li>tonecurve</rdf:li>
+     <rdf:li>atrous</rdf:li>
+     <rdf:li>tonecurve</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -89,6 +98,9 @@
      <rdf:li>gz06eJxjYICAOZK11moM/63dn8+x1X0nb5eWrWvHsnKK3RRDN3staTd7BoYGKB4YwHV9sS0Iz5o50w6EgUIgt9gbGxuDsXxrNhgPlDsHq/vYgJgdipEBIxINABbEKGw=</rdf:li>
      <rdf:li>0000804000009e42f6281c3f0000803f</rdf:li>
      <rdf:li>32000000</rdf:li>
+     <rdf:li>gz06eJxjYICAOZK11moM/63dn8+x1X0nb5eWrWvHsnKK3RRDN3staTd7BoYGKB4YwHV9sS0Iz5o50w6EgUIgt9gbGxuDsXxrNhgPlDsHq/vYgJgdipEBIxINABbEKGw=</rdf:li>
+     <rdf:li>gz04eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE8HcVIxUeDCGR/bC2fO2ILY54Dsc0A20F47INuOkaHBDgCDvz79</rdf:li>
+     <rdf:li>gz06eJxjYICAOZK11moM/63dn8+x1X0nb5eWrWvHsnKK3RRDN3staTd7BoYGKB4YwHV9sS0Iz5o50w6EgUIgt9gbGxuDsXxrNhgPlDsHq/vYgJgdipEBIxINABbEKGw=</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -102,10 +114,16 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz08eJxjZWBgkGAAgRNODFDACKEcGHAAzRh+OxBGiDTYQ/Dw5gMARCsZbw==</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjZGBgkGAAgQwnBqJBgz0Ejyw+AGe+GKQ=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjZGBgkABiRoYbjgxEgwZ7CB5ZfADmoRkU</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -128,6 +146,9 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -141,13 +162,30 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>

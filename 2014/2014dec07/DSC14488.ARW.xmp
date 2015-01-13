@@ -53,10 +53,12 @@
      <rdf:li>2</rdf:li>
      <rdf:li>5</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -85,6 +87,7 @@
      <rdf:li>exposure</rdf:li>
      <rdf:li>clipping</rdf:li>
      <rdf:li>splittoning</rdf:li>
+     <rdf:li>atrous</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -101,6 +104,7 @@
      <rdf:li>00000000f2cc4cbe0000803f</rdf:li>
      <rdf:li>000000009cabb93d00000000e23d7e3f0000803f00000000000000000000803ec8c54c3e6227563f6290483e6881563f487d503f4cbf743ee8db4d3f010000000000000001000000010000000000000000000000</rdf:li>
      <rdf:li>ae47213f3333b33ecdcc4c3e0000803e2506113f7b141742</rdf:li>
+     <rdf:li>gz06eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9r8bNneLBioHJcmCoAAMGVOt4=</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -117,10 +121,12 @@
      <rdf:li>gz07eJxjZWBgkGAAgRNODDDAwsAwa6akAwNO0GAPwYOLP3PmTDuRdcftaGU+AOiFHmg=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -149,6 +155,7 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -165,13 +172,35 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <lr:hierarchicalSubject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>arch</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </lr:hierarchicalSubject>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Gates of heaven?</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>Normandy</rdf:li>
+     <rdf:li>Mont Saint-Michel</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>arch</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>monastery</rdf:li>
+     <rdf:li>night</rdf:li>
+    </rdf:Seq>
    </dc:subject>
   </rdf:Description>
  </rdf:RDF>
