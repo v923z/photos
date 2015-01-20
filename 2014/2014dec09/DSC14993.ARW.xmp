@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC14993.ARW"
    exif:GPSLongitude="2,1.719700W"
@@ -73,6 +75,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -93,6 +96,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -113,6 +117,7 @@
      <rdf:li>bilat</rdf:li>
      <rdf:li>atrous</rdf:li>
      <rdf:li>bilat</rdf:li>
+     <rdf:li>levels</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -133,6 +138,7 @@
      <rdf:li>0000b04100004842bc74933e</rdf:li>
      <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcfciTqxYZScLVmzRudAOG2YgEQAAiRdEkg==</rdf:li>
      <rdf:li>0000b04100004842bc74933e</rdf:li>
+     <rdf:li>0000000000000000000048420000c842faa9043df2fa043fdac25c3f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -153,10 +159,12 @@
      <rdf:li>gz06eJxjZWBgkGAAgRNODDDAxMB09gyPAwNO0GAPwQPLP3vmjF3Aryd2JsbB9iBMa/sAO90gdA==</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz06eJxjZWBgkGAAgRNODDDAxMB09gyPAwNO0GAPwQPLP3vmjF3Aryd2JsbB9iBMa/sAO90gdA==</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -193,6 +201,7 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -213,8 +222,46 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Narrow, but not straight path</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Brittany</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>Plage de Bon Secours</rdf:li>
+     <rdf:li>Saint-Malo</rdf:li>
+     <rdf:li>island</rdf:li>
+     <rdf:li>man</rdf:li>
+     <rdf:li>path</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>seascape</rdf:li>
+     <rdf:li>seashore</rdf:li>
+     <rdf:li>tide</rdf:li>
+     <rdf:li>walk</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Brittany</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>Plage de Bon Secours</rdf:li>
+     <rdf:li>Saint-Malo</rdf:li>
+     <rdf:li>island</rdf:li>
+     <rdf:li>man</rdf:li>
+     <rdf:li>path</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>seascape</rdf:li>
+     <rdf:li>seashore</rdf:li>
+     <rdf:li>tide</rdf:li>
+     <rdf:li>walk</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
