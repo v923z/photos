@@ -49,6 +49,8 @@
      <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -63,6 +65,8 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
@@ -79,6 +83,8 @@
      <rdf:li>exposure</rdf:li>
      <rdf:li>graduatednd</rdf:li>
      <rdf:li>exposure</rdf:li>
+     <rdf:li>shadhi</rdf:li>
+     <rdf:li>atrous</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -94,10 +100,14 @@
      <rdf:li>0000000000000000283128bf0000c842000080bf00000000</rdf:li>
      <rdf:li>0000803f0000000000000000000048420000000000000000</rdf:li>
      <rdf:li>00000000000000005d3bdfbe0000c842000080bf00000000</rdf:li>
+     <rdf:li>000000000000c8c2d9a31f420000000090c2f3c100000000000048420000c842000048427f000000bd378635</rdf:li>
+     <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9r8U1SrFhxZC8TVsz19YwdNsxAIgAAVVZHjA==</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -124,10 +134,14 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -154,8 +168,15 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Grassland at sunset</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Italy</rdf:li>
