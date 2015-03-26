@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC16074.ARW"
    darktable:xmp_version="1"
@@ -106,6 +108,28 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Bavaria</rdf:li>
+     <rdf:li>Germany</rdf:li>
+     <rdf:li>Königssee</rdf:li>
+     <rdf:li>lake</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Bavaria</rdf:li>
+     <rdf:li>Germany</rdf:li>
+     <rdf:li>Königssee</rdf:li>
+     <rdf:li>lake</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

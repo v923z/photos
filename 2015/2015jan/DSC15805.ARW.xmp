@@ -5,14 +5,11 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:exif="http://ns.adobe.com/exif/1.0/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC16276.ARW"
+   xmpMM:DerivedFrom="DSC15805.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1"
-   exif:GPSLongitude="13,4.009266E"
-   exif:GPSLatitude="47,45.366898N">
+   darktable:auto_presets_applied="1">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -85,9 +82,9 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
   </rdf:Description>
