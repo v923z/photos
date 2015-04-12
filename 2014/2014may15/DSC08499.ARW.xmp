@@ -13,25 +13,46 @@
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
    <darktable:mask_id>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1428777207</rdf:li>
+     <rdf:li>1428777190</rdf:li>
+    </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>4</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>grp local contrast</rdf:li>
+     <rdf:li>path #1</rdf:li>
+    </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:mask_version>
    <darktable:mask>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>e6682955f7682955030000000000803f</rdf:li>
+     <rdf:li>gz02eJwT+JVmF+NhZH9NJNBu7io9e+/7NXbSz0ztL2xkswVhRgYGBlml/XZzvI3td+SusrsnZGzfdO2yXVSLMYqatO3v7S7PMbY/8/CV3dUia3uG3i92l49po6jZrXzHbqY7i/25vMd2Lgd47VfcuGJ3d+5XO2Q1378ctls58aududAlu8CMr3bbr2+1Y9yNqsaqpN1u/mEW+2Umk+0q3/y1m51ebsc0kQvFrjtPquyUZsra+xxrsGNmFrNXsi2xc9RXRVEDAG0tYvM=</rdf:li>
+    </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>7</rdf:li>
+    </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>0000000074472e78</rdf:li>
+     <rdf:li>d97b7a3e45f3373f</rdf:li>
+    </rdf:Seq>
    </darktable:mask_src>
    <darktable:history_modversion>
     <rdf:Seq>
@@ -44,10 +65,12 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -70,6 +93,7 @@
      <rdf:li>velvia</rdf:li>
      <rdf:li>colisa</rdf:li>
      <rdf:li>clipping</rdf:li>
+     <rdf:li>bilat</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -83,6 +107,7 @@
      <rdf:li>0000c8410000803f</rdf:li>
      <rdf:li>0000000000000000b047e13d</rdf:li>
      <rdf:li>700000bf0000000021d9da3d0000803f101d6e3f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
+     <rdf:li>0000a04100004842e5a5db3e</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -96,10 +121,12 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz10eJxjZmBgkGAAgRNOIPJ7hmYoA0HQYA/BI4sPAOZnGuM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -122,6 +149,7 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -135,8 +163,14 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Guard of the lake</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Italy</rdf:li>

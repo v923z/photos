@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC08565.ARW"
    exif:GPSLongitude="12,25.577633E"
@@ -71,9 +71,6 @@
      <rdf:li>687f000014000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -82,16 +79,16 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>4</rdf:li>
-     <rdf:li>3</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -157,8 +154,8 @@
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>00409c4502802e400000803f0000b23f</rdf:li>
      <rdf:li>000000000000c8c20000484200000000208527c100000000000048420000c842000048427f000000bd378635</rdf:li>
-     <rdf:li>gz02eJyzZoCAh9+a7BkYDgDxNCdj480OIDFGIA72CdF1NDcPY2h9fCejnoGBA6q+ekM8mK/A8w6FD6PTmCDqHgTdBxnDcHDlC7C4wDWP/P9AelHjUzDfAMr/oPcORf2plX5g+ZDE3KL8PAVHNwVDC10jU4PcXAU3Yz1TXTM9YwWXTAVPTwUfFwXH4oKM1KLM5MQchWhPt1gFX0fnIH+I/QrcEHMT9CE0zJ4Ff16g2HftNMQ+GB9GQ0CDPQgDAJkQUX8=</rdf:li>
-     <rdf:li>00000000ffda393f0000803f</rdf:li>
+     <rdf:li>gz02eJyzZoCAh9+a7BkYDgDxNCdj480OIDFGIA72CdF1NDcPY2h9fCejnoGBA6q+ekM8mK/A8w6FD6PTmCDqHgTdBxnDcHDlC7C4wDWP/P9AelHjUzDfAMr/oPcORf2plX5g+ZDE3KL8PAVHNwVDC10jU4PcXAU3Yz1TXTM9YwWXTAVPTwUfFwXH4oKM1KLM5MQchWhPt1gFX0fnIH+I/QrcEHMT9CE0zJ4Ff16g2HftNMQ+GB9GQ0CDPQiDBADfH1GA</rdf:li>
+     <rdf:li>0000000000000000ffda393f0000c842000080bf00000000</rdf:li>
      <rdf:li>0000c841</rdf:li>
      <rdf:li>0000c8410000803f</rdf:li>
      <rdf:li>c0cc4c3d80c2753d78142e3e</rdf:li>
@@ -166,7 +163,7 @@
      <rdf:li>000030427b146e3f</rdf:li>
      <rdf:li>0000000000000000000000000000000000004040</rdf:li>
      <rdf:li>000030427b146e3f</rdf:li>
-     <rdf:li>00000000a045863f0000803f</rdf:li>
+     <rdf:li>0000000000000000a045863f0000c842000080bf00000000</rdf:li>
      <rdf:li>3033333f0000b841affdb33e252b14420000000000000000</rdf:li>
      <rdf:li>0000a0410000b44200002041</rdf:li>
      <rdf:li>478f28be478f28be2c5206c1b55cb8406866e63f</rdf:li>
@@ -274,20 +271,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>leaning</rdf:li>
-     <rdf:li>tower</rdf:li>
-     <rdf:li>church</rdf:li>
-     <rdf:li>colour</rdf:li>
-     <rdf:li>green</rdf:li>
-     <rdf:li>yellow</rdf:li>
-     <rdf:li>red</rdf:li>
-     <rdf:li>Burano</rdf:li>
-     <rdf:li>sea</rdf:li>
-     <rdf:li>blue</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Approaching Burano</rdf:li>
@@ -295,18 +278,32 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>leaning</rdf:li>
-     <rdf:li>tower</rdf:li>
+     <rdf:li>Burano</rdf:li>
+     <rdf:li>blue</rdf:li>
      <rdf:li>church</rdf:li>
      <rdf:li>colour</rdf:li>
      <rdf:li>green</rdf:li>
-     <rdf:li>yellow</rdf:li>
+     <rdf:li>leaning</rdf:li>
      <rdf:li>red</rdf:li>
-     <rdf:li>Burano</rdf:li>
      <rdf:li>sea</rdf:li>
-     <rdf:li>blue</rdf:li>
+     <rdf:li>tower</rdf:li>
+     <rdf:li>yellow</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Burano</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>church</rdf:li>
+     <rdf:li>colour</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>leaning</rdf:li>
+     <rdf:li>red</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>tower</rdf:li>
+     <rdf:li>yellow</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

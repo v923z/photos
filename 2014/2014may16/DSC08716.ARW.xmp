@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC08716.ARW"
    exif:GPSLongitude="12,20.868250E"
@@ -106,9 +106,6 @@
      <rdf:li>ba7f0000c85fca06</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -265,39 +262,26 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>1</rdf:li>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>2</rdf:li>
      <rdf:li>3</rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>harbour</rdf:li>
-     <rdf:li>port</rdf:li>
-     <rdf:li>sunshine</rdf:li>
-     <rdf:li>Salute</rdf:li>
-     <rdf:li>sail boat</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>Basilica di Santa Maria della Salute</rdf:li>
-     <rdf:li>sea</rdf:li>
-     <rdf:li>Venice</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Leaving port</rdf:li>
@@ -305,17 +289,30 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>Basilica di Santa Maria della Salute</rdf:li>
+     <rdf:li>Salute</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>clouds</rdf:li>
      <rdf:li>harbour</rdf:li>
      <rdf:li>port</rdf:li>
-     <rdf:li>sunshine</rdf:li>
-     <rdf:li>Salute</rdf:li>
      <rdf:li>sail boat</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>Basilica di Santa Maria della Salute</rdf:li>
      <rdf:li>sea</rdf:li>
-     <rdf:li>Venice</rdf:li>
+     <rdf:li>sunshine</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Basilica di Santa Maria della Salute</rdf:li>
+     <rdf:li>Salute</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>clouds</rdf:li>
+     <rdf:li>harbour</rdf:li>
+     <rdf:li>port</rdf:li>
+     <rdf:li>sail boat</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>sunshine</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

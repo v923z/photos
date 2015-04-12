@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC08889.ARW"
@@ -15,25 +15,6 @@
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
-   <dc:title>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">The other side</rdf:li>
-    </rdf:Alt>
-   </dc:title>
-   <dc:subject>
-    <rdf:Seq>
-     <rdf:li>blue hour</rdf:li>
-     <rdf:li>Grand Canal</rdf:li>
-     <rdf:li>long exposure</rdf:li>
-     <rdf:li>reflection</rdf:li>
-     <rdf:li>Rialto bridge</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>Venice</rdf:li>
-    </rdf:Seq>
-   </dc:subject>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -60,7 +41,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>5</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
@@ -108,7 +89,7 @@
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
-     <rdf:li>a09b443bffd8cebe0000803f</rdf:li>
+     <rdf:li>00000000a09b443bffd8cebe0000c842000080bf00000000</rdf:li>
      <rdf:li>000000000000000001b3403b15126c3fc7d26c3f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000001000000</rdf:li>
      <rdf:li>0000a041000048428841a03e</rdf:li>
      <rdf:li>000000000000c842208526420000000010ae2bc100000000000048420000c842000048427f000000bd378635</rdf:li>
@@ -183,15 +164,31 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">The other side</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
     <rdf:Seq>
-     <rdf:li>blue hour</rdf:li>
      <rdf:li>Grand Canal</rdf:li>
+     <rdf:li>Rialto bridge</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>blue hour</rdf:li>
      <rdf:li>long exposure</rdf:li>
      <rdf:li>reflection</rdf:li>
-     <rdf:li>Rialto bridge</rdf:li>
      <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Grand Canal</rdf:li>
+     <rdf:li>Rialto bridge</rdf:li>
      <rdf:li>Venice</rdf:li>
+     <rdf:li>blue hour</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
   </rdf:Description>
