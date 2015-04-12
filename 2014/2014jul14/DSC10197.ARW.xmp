@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC10197.ARW"
    exif:GPSLongitude="17,29.145350E"
@@ -71,24 +71,22 @@
      <rdf:li>697f000001000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>4</rdf:li>
-     <rdf:li>3</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
@@ -105,6 +103,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -126,6 +125,7 @@
      <rdf:li>exposure</rdf:li>
      <rdf:li>exposure</rdf:li>
      <rdf:li>splittoning</rdf:li>
+     <rdf:li>cacorrect</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -133,17 +133,18 @@
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>0000000071fd3bc30000484200000000000048c200000000000048420000c842000048427f000000bd378635</rdf:li>
-     <rdf:li>gz02eJyzZoAAlv/19gwMB4B4giMDQ4IDSIwRiIN9QnQdzc3DGFgnxWXWMzBwQNVXG/CB+QpP9BmR+TA6jQmiziFRnQVEH9ScDhZfIP0+7j+QXsQ4Bcw/AOV/YDNgRFZ/SvNvLEg+JDG3KD9PwdFNwdBC18jUIDdXwc1Yz1TXTM9YwSVTwdNTwcdFwbG4ICO1KDM5MUch2tMtVsHX0TnIH+x8BoXHEPclsEPMh9mz4IYWin3XvCH2wfgwGgIa7EEYADcNPpM=</rdf:li>
-     <rdf:li>000000000100003f0000803f</rdf:li>
+     <rdf:li>gz02eJyzZoAAlv/19gwMB4B4giMDQ4IDSIwRiIN9QnQdzc3DGFgnxWXWMzBwQNVXG/CB+QpP9BmR+TA6jQmiziFRnQVEH9ScDhZfIP0+7j+QXsQ4Bcw/AOV/YDNgRFZ/SvNvLEg+JDG3KD9PwdFNwdBC18jUIDdXwc1Yz1TXTM9YwSVTwdNTwcdFwbG4ICO1KDM5MUch2tMtVsHX0TnIH+x8BoXHEPclsEPMh9mz4IYWin3XvCH2wfgwGgIa7EEYpAEAMWw+lA==</rdf:li>
+     <rdf:li>00000000000000000100003f0000c842000080bf00000000</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>000082420000803f</rdf:li>
      <rdf:li>0000c841</rdf:li>
      <rdf:li>000064420000803f</rdf:li>
      <rdf:li>00000040000030410000003f0000803f</rdf:li>
      <rdf:li>gz25eJz7sONyMMMIBkwD7YABBgCc9ALR</rdf:li>
-     <rdf:li>000000000100003f0000803f</rdf:li>
-     <rdf:li>00000000fddc243e0000803f</rdf:li>
+     <rdf:li>00000000000000000100003f0000c842000080bf00000000</rdf:li>
+     <rdf:li>0000000000000000fddc243e0000c842000080bf00000000</rdf:li>
      <rdf:li>ae47213f0000003fcdcc4c3d1f852b3f63ee1a3f48e1bc41</rdf:li>
+     <rdf:li>32000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -162,10 +163,12 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz10eJxjZmBgkGAAgS1OIDJ/1+VgBoKgwR6CRxYfAEymG0E=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -198,6 +201,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -216,19 +220,9 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Balaton</rdf:li>
-     <rdf:li>reflection</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>rock</rdf:li>
-     <rdf:li>sunrise</rdf:li>
-     <rdf:li>lake</rdf:li>
-     <rdf:li>blue</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Skywater</rdf:li>
@@ -237,14 +231,25 @@
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Balaton</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>lake</rdf:li>
      <rdf:li>reflection</rdf:li>
-     <rdf:li>water</rdf:li>
      <rdf:li>rock</rdf:li>
      <rdf:li>sunrise</rdf:li>
-     <rdf:li>lake</rdf:li>
-     <rdf:li>blue</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Balaton</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>lake</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>rock</rdf:li>
+     <rdf:li>sunrise</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
