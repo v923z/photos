@@ -38,7 +38,7 @@
     <rdf:Seq>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
@@ -62,7 +62,7 @@
     <rdf:Seq>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
-     <rdf:li>000000004133333f0000803f</rdf:li>
+     <rdf:li>00000000000000004133333f0000c842000080bf00000000</rdf:li>
      <rdf:li>0000c8410000803f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
