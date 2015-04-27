@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC14438.ARW"
    exif:GPSLongitude="2,22.551917E"
@@ -36,9 +36,6 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -47,8 +44,8 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>3</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -83,8 +80,8 @@
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>0ad7233f0000003fcdcc4c3e0000003fbc74133f00000442</rdf:li>
-     <rdf:li>00000000e35138be0000803f</rdf:li>
-     <rdf:li>0000a04200004842583934be70be1fbd8c97aebe408d173d00000000cdcc8c3f0000803f00000000</rdf:li>
+     <rdf:li>0000000000000000e35138be0000c842000080bf00000000</rdf:li>
+     <rdf:li>0000a04200004842583934be70be1fbd8c97aebe408d173d00000000cdcc8c3f0000803f0000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -125,26 +122,16 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>train station</rdf:li>
-     <rdf:li>pianist</rdf:li>
-     <rdf:li>piano</rdf:li>
-     <rdf:li>Gare de Lyon</rdf:li>
-     <rdf:li>Paris</rdf:li>
-     <rdf:li>France</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">A vous de Jouer!</rdf:li>
@@ -152,14 +139,24 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>train station</rdf:li>
-     <rdf:li>pianist</rdf:li>
-     <rdf:li>piano</rdf:li>
+     <rdf:li>France</rdf:li>
      <rdf:li>Gare de Lyon</rdf:li>
      <rdf:li>Paris</rdf:li>
-     <rdf:li>France</rdf:li>
+     <rdf:li>pianist</rdf:li>
+     <rdf:li>piano</rdf:li>
+     <rdf:li>train station</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>France</rdf:li>
+     <rdf:li>Gare de Lyon</rdf:li>
+     <rdf:li>Paris</rdf:li>
+     <rdf:li>pianist</rdf:li>
+     <rdf:li>piano</rdf:li>
+     <rdf:li>train station</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

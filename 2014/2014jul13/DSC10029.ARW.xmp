@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC10029.ARW"
    exif:GPSLongitude="17,29.417933E"
@@ -57,9 +57,6 @@
      <rdf:li>bf1a2c3f4db50d3f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -196,16 +193,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>ivy</rdf:li>
-     <rdf:li>DoF</rdf:li>
-     <rdf:li>spiral</rdf:li>
-     <rdf:li>macro</rdf:li>
-     <rdf:li>green</rdf:li>
-     <rdf:li>abstract</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Abstract green</rdf:li>
@@ -213,14 +200,24 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>ivy</rdf:li>
      <rdf:li>DoF</rdf:li>
-     <rdf:li>spiral</rdf:li>
-     <rdf:li>macro</rdf:li>
-     <rdf:li>green</rdf:li>
      <rdf:li>abstract</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>ivy</rdf:li>
+     <rdf:li>macro</rdf:li>
+     <rdf:li>spiral</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>DoF</rdf:li>
+     <rdf:li>abstract</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>ivy</rdf:li>
+     <rdf:li>macro</rdf:li>
+     <rdf:li>spiral</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

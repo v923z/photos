@@ -4,14 +4,15 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="PC077894.JPG"
+   xmpMM:DerivedFrom="DSC14063.ARW"
+   exif:GPSLongitude="2,21.011233E"
+   exif:GPSLatitude="48,51.099917N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="0">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -33,9 +34,6 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq/>
    </darktable:history_modversion>
@@ -60,17 +58,6 @@
    <darktable:multi_name>
     <rdf:Seq/>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq/>
-   </lr:hierarchicalSubject>
-   <dc:description>
-    <rdf:Alt>
-     <rdf:li xml:lang="x-default">                                                                                                                     </rdf:li>
-    </rdf:Alt>
-   </dc:description>
-   <dc:subject>
-    <rdf:Seq/>
-   </dc:subject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

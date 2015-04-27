@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC10063.ARW"
    exif:GPSLongitude="17,28.866800E"
@@ -113,15 +113,12 @@
      <rdf:li>b76ca53e72841f3f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>3</rdf:li>
+     <rdf:li>5</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -129,10 +126,10 @@
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
@@ -181,7 +178,7 @@
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
-     <rdf:li>gz02eJyzZoCA0smN9gwMB4A4yHnWzJMOIDFGIA72CdF1NDcPgypjELg2iRGZhgHeQ1PiMuuBDJ58DhD/wIkFYPqDmBmYljB4H/cfJK+7EaxvgcJ0sHjCtL1gvljM31iQfhh/RyyEH5KYW5Sfp+DopmBooWtkapCbq+BmrGeqa6ZnrOCSqeDpqeDjouBYXJCRWpSZnJijEO3pFqvg6+gc5A92PkOANsS+D6d1IO6V00Zx9wQZdbA7Np+C2PcfChih/oeABnsQBgAyMUIF</rdf:li>
+     <rdf:li>gz02eJyzZoCA0smN9gwMB4A4yHnWzJMOIDFGIA72CdF1NDcPgypjELg2iRGZhgHeQ1PiMuuBDJ58DhD/wIkFYPqDmBmYljB4H/cfJK+7EaxvgcJ0sHjCtL1gvljM31iQfhh/RyyEH5KYW5Sfp+DopmBooWtkapCbq+BmrGeqa6ZnrOCSqeDpqeDjouBYXJCRWpSZnJijEO3pFqvg6+gc5A92PkOANsS+D6d1IO6V00Zx9wQZdbA7Np+C2PcfChih/oeABnsQBvEBOlhCBg==</rdf:li>
      <rdf:li>000000000000c8420000484200000000000048c200000000000048420000c842000048427f000000bd378635</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>000000000000000000000000000000000000803f</rdf:li>
@@ -189,10 +186,10 @@
      <rdf:li>00409c4501c03d400000803f0000a43f</rdf:li>
      <rdf:li>0000c841</rdf:li>
      <rdf:li>00001c420000aa420000c040</rdf:li>
-     <rdf:li>0000000077d9b73e0000803f</rdf:li>
+     <rdf:li>000000000000000077d9b73e0000c842000080bf00000000</rdf:li>
      <rdf:li>000000000000000014aec73e</rdf:li>
-     <rdf:li>000000003e0af1410000803f000000000000803f</rdf:li>
-     <rdf:li>0000000001a69b3e0000803f</rdf:li>
+     <rdf:li>000000003e0af1410000803f000000000000803f00000000</rdf:li>
+     <rdf:li>000000000000000001a69b3e0000c842000080bf00000000</rdf:li>
      <rdf:li>gz25eJxzVL8azDCCAdNAO2CAAQAhYwGT</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
@@ -276,16 +273,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Balaton</rdf:li>
-     <rdf:li>sail boat</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>storm</rdf:li>
-     <rdf:li>lake</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Cloud curtain</rdf:li>
@@ -294,13 +281,23 @@
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Balaton</rdf:li>
-     <rdf:li>sail boat</rdf:li>
      <rdf:li>clouds</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>storm</rdf:li>
      <rdf:li>lake</rdf:li>
+     <rdf:li>sail boat</rdf:li>
+     <rdf:li>storm</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Balaton</rdf:li>
+     <rdf:li>clouds</rdf:li>
+     <rdf:li>lake</rdf:li>
+     <rdf:li>sail boat</rdf:li>
+     <rdf:li>storm</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

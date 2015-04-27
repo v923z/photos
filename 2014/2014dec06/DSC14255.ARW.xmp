@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC14255.ARW"
    darktable:xmp_version="1"
@@ -96,9 +96,6 @@
      <rdf:li>d9d91a3fb02e873f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -227,31 +224,22 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>1</rdf:li>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>couple</rdf:li>
-     <rdf:li>kiss</rdf:li>
-     <rdf:li>Eiffel tower</rdf:li>
-     <rdf:li>Paris</rdf:li>
-     <rdf:li>France</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">From Paris. With love.</rdf:li>
@@ -259,13 +247,22 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>Eiffel tower</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>Paris</rdf:li>
      <rdf:li>couple</rdf:li>
      <rdf:li>kiss</rdf:li>
-     <rdf:li>Eiffel tower</rdf:li>
-     <rdf:li>Paris</rdf:li>
-     <rdf:li>France</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Eiffel tower</rdf:li>
+     <rdf:li>France</rdf:li>
+     <rdf:li>Paris</rdf:li>
+     <rdf:li>couple</rdf:li>
+     <rdf:li>kiss</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

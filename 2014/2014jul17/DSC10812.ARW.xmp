@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC10812.ARW"
    darktable:xmp_version="1"
@@ -106,9 +106,6 @@
      <rdf:li>957f000000000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -309,17 +306,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>reed</rdf:li>
-     <rdf:li>pitcher</rdf:li>
-     <rdf:li>pot</rdf:li>
-     <rdf:li>house</rdf:li>
-     <rdf:li>museum</rdf:li>
-     <rdf:li>window</rdf:li>
-     <rdf:li>white</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">The potter's house</rdf:li>
@@ -327,15 +313,26 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>reed</rdf:li>
-     <rdf:li>pitcher</rdf:li>
-     <rdf:li>pot</rdf:li>
      <rdf:li>house</rdf:li>
      <rdf:li>museum</rdf:li>
-     <rdf:li>window</rdf:li>
+     <rdf:li>pitcher</rdf:li>
+     <rdf:li>pot</rdf:li>
+     <rdf:li>reed</rdf:li>
      <rdf:li>white</rdf:li>
+     <rdf:li>window</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>house</rdf:li>
+     <rdf:li>museum</rdf:li>
+     <rdf:li>pitcher</rdf:li>
+     <rdf:li>pot</rdf:li>
+     <rdf:li>reed</rdf:li>
+     <rdf:li>white</rdf:li>
+     <rdf:li>window</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
