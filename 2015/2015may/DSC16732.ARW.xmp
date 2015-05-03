@@ -139,20 +139,26 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>Alps</rdf:li>
      <rdf:li>Seefeld</rdf:li>
+     <rdf:li>Tyrol</rdf:li>
      <rdf:li>clouds</rdf:li>
      <rdf:li>landscape</rdf:li>
      <rdf:li>mountain</rdf:li>
+     <rdf:li>nature</rdf:li>
      <rdf:li>snow</rdf:li>
      <rdf:li>white</rdf:li>
     </rdf:Seq>
    </dc:subject>
    <lr:hierarchicalSubject>
     <rdf:Seq>
+     <rdf:li>Alps</rdf:li>
      <rdf:li>Seefeld</rdf:li>
+     <rdf:li>Tyrol</rdf:li>
      <rdf:li>clouds</rdf:li>
      <rdf:li>landscape</rdf:li>
      <rdf:li>mountain</rdf:li>
+     <rdf:li>nature</rdf:li>
      <rdf:li>snow</rdf:li>
      <rdf:li>white</rdf:li>
     </rdf:Seq>
