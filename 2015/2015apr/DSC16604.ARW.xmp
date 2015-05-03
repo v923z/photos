@@ -168,6 +168,7 @@
     <rdf:Seq>
      <rdf:li>Andris</rdf:li>
      <rdf:li>Seefeld</rdf:li>
+     <rdf:li>blue</rdf:li>
      <rdf:li>bokeh</rdf:li>
      <rdf:li>lake</rdf:li>
     </rdf:Seq>
@@ -176,6 +177,7 @@
     <rdf:Seq>
      <rdf:li>Andris</rdf:li>
      <rdf:li>Seefeld</rdf:li>
+     <rdf:li>blue</rdf:li>
      <rdf:li>bokeh</rdf:li>
      <rdf:li>lake</rdf:li>
     </rdf:Seq>
