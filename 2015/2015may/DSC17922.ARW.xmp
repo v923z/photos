@@ -6,6 +6,7 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC17922.ARW"
    exif:GPSLongitude="12,20.449733E"
@@ -150,6 +151,11 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Lady in red</rdf:li>
+    </rdf:Alt>
+   </dc:title>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
