@@ -5,11 +5,16 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC17835.ARW"
+   xmpMM:DerivedFrom="DSC17300.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="1"
+   exif:GPSLongitude="12,20.995216E"
+   exif:GPSLatitude="45,27.111053N">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -87,6 +92,37 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">What's the news?</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Murano</rdf:li>
+     <rdf:li>canal</rdf:li>
+     <rdf:li>pedestrian</rdf:li>
+     <rdf:li>rain</rdf:li>
+     <rdf:li>street</rdf:li>
+     <rdf:li>umbrella</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>woman</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Murano</rdf:li>
+     <rdf:li>canal</rdf:li>
+     <rdf:li>pedestrian</rdf:li>
+     <rdf:li>rain</rdf:li>
+     <rdf:li>street</rdf:li>
+     <rdf:li>umbrella</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>woman</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
