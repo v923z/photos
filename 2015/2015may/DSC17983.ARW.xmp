@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC17983.ARW"
    exif:GPSLongitude="12,20.334000E"
@@ -58,6 +60,28 @@
    <darktable:multi_name>
     <rdf:Seq/>
    </darktable:multi_name>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Piazza San Marco</rdf:li>
+     <rdf:li>Saint Mark</rdf:li>
+     <rdf:li>San Marco</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>evangelist</rdf:li>
+     <rdf:li>winged lion</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Piazza San Marco</rdf:li>
+     <rdf:li>Saint Mark</rdf:li>
+     <rdf:li>San Marco</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>evangelist</rdf:li>
+     <rdf:li>winged lion</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

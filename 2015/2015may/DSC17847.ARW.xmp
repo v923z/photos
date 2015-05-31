@@ -45,8 +45,8 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -75,8 +75,8 @@
      <rdf:li>nlmeans</rdf:li>
      <rdf:li>atrous</rdf:li>
      <rdf:li>velvia</rdf:li>
-     <rdf:li>temperature</rdf:li>
      <rdf:li>colisa</rdf:li>
+     <rdf:li>temperature</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -90,8 +90,8 @@
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
      <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcV9RHqx4GRcbVsyg3W6HFZMIAGN1PXg=</rdf:li>
      <rdf:li>000028420000803f</rdf:li>
-     <rdf:li>00409c45f0142c400000803fe047a63f</rdf:li>
      <rdf:li>0000000000000000d0cc4cbd</rdf:li>
+     <rdf:li>00409c450fdf28400000803fb32da33f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>

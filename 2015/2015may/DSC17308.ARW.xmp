@@ -17,22 +17,26 @@
     <rdf:Seq>
      <rdf:li>1433017453</rdf:li>
      <rdf:li>1433017439</rdf:li>
+     <rdf:li>1433067307</rdf:li>
     </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
     <rdf:Seq>
      <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
     <rdf:Seq>
      <rdf:li>grp exposure</rdf:li>
      <rdf:li>path #1</rdf:li>
+     <rdf:li>grp velvia</rdf:li>
     </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
     <rdf:Seq>
+     <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
     </rdf:Seq>
@@ -41,18 +45,21 @@
     <rdf:Seq>
      <rdf:li>5f1c6a556d1c6a55030000000000803f</rdf:li>
      <rdf:li>gz02eJy7E7LFzq7wlp2Sx047t1MP7KYnrrczl7hiF5D8wRqEGRkYGAp619hNa99ud2PhKrvnnQftOCrX2bm1rkVRk31rv11k8jw7Oe5ddvc859rtWnnU7lrNfBQ1rpnn7eoV9tnVrz1rd3jaZjtu1Yt21qtOoKgRcDxld3juXbvyI+fsFj+9Ybdq71G7x6GPUNQAAGFRTWo=</rdf:li>
+     <rdf:li>5f1c6a552bdf6a55030000000000803f</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
     <rdf:Seq>
      <rdf:li>4c7f00002248b93e</rdf:li>
      <rdf:li>4d92be3eafaee43e</rdf:li>
+     <rdf:li>000000000f000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
    <darktable:history_modversion>
@@ -67,10 +74,22 @@
      <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -95,6 +114,12 @@
      <rdf:li>graduatednd</rdf:li>
      <rdf:li>vignette</rdf:li>
      <rdf:li>splittoning</rdf:li>
+     <rdf:li>exposure</rdf:li>
+     <rdf:li>exposure</rdf:li>
+     <rdf:li>graduatednd</rdf:li>
+     <rdf:li>graduatednd</rdf:li>
+     <rdf:li>graduatednd</rdf:li>
+     <rdf:li>velvia</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -109,6 +134,12 @@
      <rdf:li>88ebf13f00009a427fa0b14216dc6b410000000000000000</rdf:li>
      <rdf:li>0000c84285eb8b42000000bf088195bd906ce73dc020303d000000002db2ad3f0000803f0000000001000000</rdf:li>
      <rdf:li>ae47213f0000003fcdcc4c3e0000003f3cbd023fcdcc8c41</rdf:li>
+     <rdf:li>00000000671283bad8cc4c3e0000c842000080bf00000000</rdf:li>
+     <rdf:li>0000000000000000a0efe73e0000c842000080bf00000000</rdf:li>
+     <rdf:li>88ebf13f00009a427fa0b14216dc6b410000000000000000</rdf:li>
+     <rdf:li>0000803f0000444200095842f2158d410000000000000000</rdf:li>
+     <rdf:li>0000803f0000504200bce842924f41410000000000000000</rdf:li>
+     <rdf:li>0000c8410ad7233f</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -123,10 +154,22 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjZGBgkGAAgTYnBqJBgz0Ejyw+AIm6GMI=</rdf:li>
+     <rdf:li>gz10eJxjZmBgkGAAgRNOIDJXJiuUgSBosIfgkcUHAEDlGk4=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz10eJxjZmBgkGAAgRNOjEBS+35WKANB0GAPwSOLDwDQXhrQ</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -145,10 +188,16 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
     </rdf:Seq>
@@ -165,6 +214,12 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
   </rdf:Description>
