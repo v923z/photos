@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC17895.ARW"
    exif:GPSLongitude="12,20.455833E"
@@ -48,6 +50,8 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>5</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -61,6 +65,8 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -80,6 +86,8 @@
      <rdf:li>cacorrect</rdf:li>
      <rdf:li>bilat</rdf:li>
      <rdf:li>clipping</rdf:li>
+     <rdf:li>levels</rdf:li>
+     <rdf:li>exposure</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -96,10 +104,14 @@
      <rdf:li>32000000</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
      <rdf:li>0000000000000000e009353dd4e5743f0000803f00000000000000004222033e8062f13b0e9e6c3fd07e2d3dc214753f5f0a563f10d90c3de8ae533f020000000000000001000000010000000000000000000000</rdf:li>
+     <rdf:li>0000000000000000000048420000c84200000000dc73f13e0000803f</rdf:li>
+     <rdf:li>000000006712833a000000000000c842000080bf00000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -128,10 +140,14 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -160,8 +176,45 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">A bridge, a sigh...</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>arch</rdf:li>
+     <rdf:li>architecture</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>bridge</rdf:li>
+     <rdf:li>bridge of sighs</rdf:li>
+     <rdf:li>canal</rdf:li>
+     <rdf:li>sky</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>white</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>arch</rdf:li>
+     <rdf:li>architecture</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>bridge</rdf:li>
+     <rdf:li>bridge of sighs</rdf:li>
+     <rdf:li>canal</rdf:li>
+     <rdf:li>sky</rdf:li>
+     <rdf:li>water</rdf:li>
+     <rdf:li>white</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
