@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC18136.ARW"
    exif:GPSLongitude="12,26.030617E"
@@ -111,6 +113,10 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -127,6 +133,10 @@
      <rdf:li>0</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -143,6 +153,10 @@
      <rdf:li>splittoning</rdf:li>
      <rdf:li>atrous</rdf:li>
      <rdf:li>spots</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>colisa</rdf:li>
+     <rdf:li>velvia</rdf:li>
+     <rdf:li>splittoning</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -159,6 +173,10 @@
      <rdf:li>f6281c3f0000003fec51383e8fc2353f0000003fcdcc7f42</rdf:li>
      <rdf:li>gz06eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcRAbGz57hgcrZqASAAAoIEKm</rdf:li>
      <rdf:li>gz16eJyTU8oKDQXifCBeBMRBylmhDCMIMA20AwYYAAA+LgY/</rdf:li>
+     <rdf:li>700000bf0000000090a7b7390000803f42fe7f3f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000001000000</rdf:li>
+     <rdf:li>000000000000000000d7233d</rdf:li>
+     <rdf:li>000010421f85eb3e</rdf:li>
+     <rdf:li>f6281c3f0000003fec51383e8fc2353fbd30293fcdcc7f42</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -175,10 +193,18 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz10eJxjYGBgkGAAgRNOIFJDKSuUgSBosIfgkcUHAPdoGgw=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -207,6 +233,10 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -223,8 +253,45 @@
      <rdf:li/>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Enlightened</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Punta Sabbioni</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>lighthouse</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>night</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>seascape</rdf:li>
+     <rdf:li>storm</rdf:li>
+     <rdf:li>vanishing point</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Punta Sabbioni</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>lighthouse</rdf:li>
+     <rdf:li>long exposure</rdf:li>
+     <rdf:li>night</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>seascape</rdf:li>
+     <rdf:li>storm</rdf:li>
+     <rdf:li>vanishing point</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
