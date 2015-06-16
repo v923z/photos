@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC17966.ARW"
    exif:GPSLongitude="12,20.353833E"
@@ -46,10 +48,12 @@
      <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>5</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -74,6 +78,7 @@
      <rdf:li>exposure</rdf:li>
      <rdf:li>colisa</rdf:li>
      <rdf:li>temperature</rdf:li>
+     <rdf:li>clipping</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -88,10 +93,12 @@
      <rdf:li>00000000000000008a16993e0000c842000080bf00000000</rdf:li>
      <rdf:li>000000000000000000d7233d</rdf:li>
      <rdf:li>00409c4530152a400000803f5e4cad3f</rdf:li>
+     <rdf:li>700080be130c1a3ddc66373e7c0b733f0000803f0000000000000000e0466e3ee88d4d3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3faacf653e72324b3f010000000000000001000000010000000000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -116,10 +123,12 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -144,8 +153,38 @@
      <rdf:li/>
      <rdf:li/>
      <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Saint George and the dragon</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Saint George</rdf:li>
+     <rdf:li>San Giorgio</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>baluster</rdf:li>
+     <rdf:li>bell tower</rdf:li>
+     <rdf:li>column</rdf:li>
+     <rdf:li>statue</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Saint George</rdf:li>
+     <rdf:li>San Giorgio</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>baluster</rdf:li>
+     <rdf:li>bell tower</rdf:li>
+     <rdf:li>column</rdf:li>
+     <rdf:li>statue</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC17183.ARW"
    exif:GPSLongitude="12,29.101250E"
@@ -14,25 +16,46 @@
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
    <darktable:mask_id>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1434451132</rdf:li>
+     <rdf:li>1434451117</rdf:li>
+    </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>4</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>grp exposure</rdf:li>
+     <rdf:li>path #1</rdf:li>
+    </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:mask_version>
    <darktable:mask>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>adfc7f55bcfc7f55030000000000803f</rdf:li>
+     <rdf:li>gz02eJzTXH16T/U/UXsxTed95emK9lumC9itj+Cy5+d7ZQ3CTAwMDFxbG+z9LwnZW/YF25/gE7e/O2u6fbUBH4qa82U19he2NNtPKJpsX2FcYl/HEWT/xL8XroYRqOYBp6nNPO5me/575nbm9T32l2wU93EbFKOoAQAbIi9w</rdf:li>
+    </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+    </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>0000000001000000</rdf:li>
+     <rdf:li>a227af3cb534183f</rdf:li>
+    </rdf:Seq>
    </darktable:mask_src>
    <darktable:history_modversion>
     <rdf:Seq>
@@ -45,6 +68,13 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -58,6 +88,13 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -71,6 +108,13 @@
      <rdf:li>bilat</rdf:li>
      <rdf:li>velvia</rdf:li>
      <rdf:li>vibrance</rdf:li>
+     <rdf:li>velvia</rdf:li>
+     <rdf:li>graduatednd</rdf:li>
+     <rdf:li>velvia</rdf:li>
+     <rdf:li>vibrance</rdf:li>
+     <rdf:li>temperature</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>exposure</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -84,6 +128,13 @@
      <rdf:li>0000a041000048429799993e</rdf:li>
      <rdf:li>000010420ad7233f</rdf:li>
      <rdf:li>0000c841</rdf:li>
+     <rdf:li>00004c4248e1fa3e</rdf:li>
+     <rdf:li>0000803f00005c4200000000eea7d941f6281c3f5c8f423e</rdf:li>
+     <rdf:li>0000824248e1fa3e</rdf:li>
+     <rdf:li>0000c841</rdf:li>
+     <rdf:li>00409c4500c025400000803fcff7b33f</rdf:li>
+     <rdf:li>000000000000000001d3573e0000803f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
+     <rdf:li>0000000000000000f851383e0000c842000080bf00000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -97,10 +148,24 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz06eJxjZ2BgkGAAgRNOIHLPn/pQBgEGBhNjb0cGnKDBHoKHFv/smTO2INysG2EHwqTqBwA7mSLr</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -123,6 +188,13 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -136,8 +208,62 @@
      <rdf:li/>
      <rdf:li> </rdf:li>
      <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">One-man shower</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Adriatic Sea</rdf:li>
+     <rdf:li>beach</rdf:li>
+     <rdf:li>black</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>cloudy</rdf:li>
+     <rdf:li>lifeguard</rdf:li>
+     <rdf:li>man</rdf:li>
+     <rdf:li>overcast</rdf:li>
+     <rdf:li>sand</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>seashore</rdf:li>
+     <rdf:li>simple</rdf:li>
+     <rdf:li>sky</rdf:li>
+     <rdf:li>surf</rdf:li>
+     <rdf:li>umbrella</rdf:li>
+     <rdf:li>wave</rdf:li>
+     <rdf:li>yellow</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Adriatic Sea</rdf:li>
+     <rdf:li>beach</rdf:li>
+     <rdf:li>black</rdf:li>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>cloudy</rdf:li>
+     <rdf:li>lifeguard</rdf:li>
+     <rdf:li>man</rdf:li>
+     <rdf:li>overcast</rdf:li>
+     <rdf:li>sand</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>seashore</rdf:li>
+     <rdf:li>simple</rdf:li>
+     <rdf:li>sky</rdf:li>
+     <rdf:li>surf</rdf:li>
+     <rdf:li>umbrella</rdf:li>
+     <rdf:li>wave</rdf:li>
+     <rdf:li>yellow</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

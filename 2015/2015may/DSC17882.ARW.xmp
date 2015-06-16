@@ -190,6 +190,7 @@
      <rdf:li>Venice</rdf:li>
      <rdf:li>blue</rdf:li>
      <rdf:li>cityscape</rdf:li>
+     <rdf:li>gondola</rdf:li>
      <rdf:li>sunrise</rdf:li>
      <rdf:li>water</rdf:li>
     </rdf:Seq>
@@ -202,6 +203,7 @@
      <rdf:li>Venice</rdf:li>
      <rdf:li>blue</rdf:li>
      <rdf:li>cityscape</rdf:li>
+     <rdf:li>gondola</rdf:li>
      <rdf:li>sunrise</rdf:li>
      <rdf:li>water</rdf:li>
     </rdf:Seq>
