@@ -311,8 +311,6 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li> </rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -336,8 +334,10 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
    <dc:title>

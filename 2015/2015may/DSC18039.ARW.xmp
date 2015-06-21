@@ -134,8 +134,8 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
   </rdf:Description>
