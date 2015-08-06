@@ -155,12 +155,26 @@
    </darktable:multi_name>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Orsi</rdf:li>
      <rdf:li>Piazza San Marco</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>lagoon</rdf:li>
+     <rdf:li>portrait</rdf:li>
+     <rdf:li>tower</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </dc:subject>
    <lr:hierarchicalSubject>
     <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Orsi</rdf:li>
      <rdf:li>Piazza San Marco</rdf:li>
+     <rdf:li>Venice</rdf:li>
+     <rdf:li>lagoon</rdf:li>
+     <rdf:li>portrait</rdf:li>
+     <rdf:li>tower</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
   </rdf:Description>

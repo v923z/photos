@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC08524.ARW"
    exif:GPSLongitude="11,24.181117E"
@@ -114,6 +116,24 @@
      <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>abstract</rdf:li>
+     <rdf:li>flower</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>plant</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>abstract</rdf:li>
+     <rdf:li>flower</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>plant</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
