@@ -4,44 +4,80 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC01181.ARW"
-   exif:GPSLongitude="11,14.877300E"
-   exif:GPSLatitude="47,26.452200N"
+   xmpMM:DerivedFrom="DSC09465.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
    <darktable:mask_id>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1440017219</rdf:li>
+     <rdf:li>1440016748</rdf:li>
+     <rdf:li>1440017312</rdf:li>
+     <rdf:li>1440016704</rdf:li>
+    </rdf:Seq>
    </darktable:mask_id>
    <darktable:mask_type>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:mask_type>
    <darktable:mask_name>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>path #3</rdf:li>
+     <rdf:li>grp exposure  </rdf:li>
+     <rdf:li>path #4</rdf:li>
+     <rdf:li>path #1</rdf:li>
+    </rdf:Seq>
    </darktable:mask_name>
    <darktable:mask_version>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>2</rdf:li>
+    </rdf:Seq>
    </darktable:mask_version>
    <darktable:mask>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>gz02eJwrmJxhf2SyiL2nZIa98ANR+77HGfb+r4Xs3V4H2YAwEwMDg8raBvujLlz2YZNr7YvmcNjPm9BkL/GWG66GEahG2bbefnurnL3K+kb7R2dl7P9LV9v32CqgqAEAY1gmMA==</rdf:li>
+     <rdf:li>40e9d4556ce9d455030000000000803f43ebd4556ce9d4550b0000000000803fa0ebd4556ce9d4550b0000000000803f</rdf:li>
+     <rdf:li>gz02eJw7FeFnm6hnaX/6i4MtQ4+b/ek90baHL2jbu70OsgFhRgYGhu8Z62zfK5jae9zusd1XYGq//Nt5W4WLJihqnOwl7Dr9ze3t+P7bPjlnYp/23cBO74Ilihr/1my7Uyou9g3unnb5VRb2/Q/b7NTO+6Oo4bm5yW6tb639vIcH7DYXFNlXXVhiFyLaguoemzbb4JVN9s5ub2xnhXXYrzrXYCP1oxJFDQCcBlM0</rdf:li>
+     <rdf:li>gz02eJxr+p1mu8Ta2Y57i70twxkJu1rFdluP1bl2Cvev2IAwIwMDw0HGN7YFcdV2B6IX2SavK7J7dFnKzp69CUVNUUS33afocrv3/hl2MpFldm87FtmdiKtAUeOvfMxu1/YGu+6e7Xav5jTbCe+6YieytNouVGWfDQiD1HA+fGS3YW6I3XWuG3arW2PsrLe/tduy1cfuU5OVDQiD1NhNYbbv+x9oFxP2147tlbedXy2HvZhohN2SyhAbEAapefKMz/6RXKWdyytu+93y6XYtjwXtWftb7daqi9qAMEgNU4Oovc3feXZM84Ttb1lPsWNOErefv2+lXfXOfhsQBql5biRlv098r12RjLh9LNMeu2pOWXshw71wfzEB1ehd8rV3nv7X7mKck/0Cx4d2fY8j7HOyeOyR1eQL5Nuf+PnVLs89xf4bUG3RzUr72dHvUMJH1qXdXufRebuZv1vtDQJ/2i3q6bDXKF6GomZhWZ19msiK3T3dU+yXajXaal0LtjfSnbYXWc32sBxbzVv+u72kou0uLRXae/vuyb1SoR9tkNUAABTCxPw=</rdf:li>
+    </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>3</rdf:li>
+     <rdf:li>3</rdf:li>
+     <rdf:li>6</rdf:li>
+     <rdf:li>14</rdf:li>
+    </rdf:Seq>
    </darktable:mask_nb>
    <darktable:mask_src>
-    <rdf:Seq/>
+    <rdf:Seq>
+     <rdf:li>1afb6b3ff117193f</rdf:li>
+     <rdf:li>00000000782e4774</rdf:li>
+     <rdf:li>5418973d2b3d363f</rdf:li>
+     <rdf:li>84739c3d85b6573e</rdf:li>
+    </rdf:Seq>
    </darktable:mask_src>
    <darktable:history_modversion>
     <rdf:Seq>
+     <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>5</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>5</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -50,34 +86,64 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
     <rdf:Seq>
+     <rdf:li>flip</rdf:li>
      <rdf:li>sharpen</rdf:li>
      <rdf:li>basecurve</rdf:li>
-     <rdf:li>velvia</rdf:li>
-     <rdf:li>temperature</rdf:li>
+     <rdf:li>nlmeans</rdf:li>
+     <rdf:li>atrous</rdf:li>
+     <rdf:li>clipping</rdf:li>
+     <rdf:li>exposure</rdf:li>
+     <rdf:li>atrous</rdf:li>
+     <rdf:li>exposure</rdf:li>
+     <rdf:li>clipping</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
     <rdf:Seq>
+     <rdf:li>ffffffff</rdf:li>
      <rdf:li>000000400000003f0000003f</rdf:li>
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>00001c423d0a173f</rdf:li>
-     <rdf:li>00409c45a6862b400000803f3149b43f</rdf:li>
+     <rdf:li>00000040000048420000003f0000803f</rdf:li>
+     <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9r8ZvxbFjxG31mrLjD8YAdNsxAIgAAgJ9J0g==</rdf:li>
+     <rdf:li>00000000c1fb563d000000000000803f0000803f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000000000000</rdf:li>
+     <rdf:li>000000000dd7233c000000000000c842000080bf00000000</rdf:li>
+     <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9r8ZvxbFjxG31mrLjD8YAdNsxAIgAAgJ9J0g==</rdf:li>
+     <rdf:li>000000000dd7233c46e11abf0000c842000080bf00000000</rdf:li>
+     <rdf:li>00000000342d403dc982413dfeff7f3ffbff7f3f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f000000000000000000000000010000000000000001000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgS4nBqJBgz0Ejyw+AI0WGMU=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz07eJxjZ2BgkGAAgRNOIDLn5ZVQRiB99kwQmI8NLFygYAvCCJEGewge3nwAoG0fdA==</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz07eJxjZ2BgkGAAgRNOIDLn5ZVQRjBfDszHBhYuULAFYYRIgz0ED28+ALB/Hac=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -90,38 +156,28 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
      <rdf:li/>
      <rdf:li/>
-     <rdf:li> </rdf:li>
      <rdf:li/>
+     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <dc:subject>
-    <rdf:Seq>
-     <rdf:li>Andris</rdf:li>
-     <rdf:li>Anna</rdf:li>
-     <rdf:li>Germany</rdf:li>
-     <rdf:li>Mittenwald</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>nature</rdf:li>
-    </rdf:Seq>
-   </dc:subject>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Andris</rdf:li>
-     <rdf:li>Anna</rdf:li>
-     <rdf:li>Germany</rdf:li>
-     <rdf:li>Mittenwald</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>nature</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

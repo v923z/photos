@@ -4,17 +4,12 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:dc="http://purl.org/dc/elements/1.1/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC01181.ARW"
-   exif:GPSLongitude="11,14.877300E"
-   exif:GPSLatitude="47,26.452200N"
+   xmpMM:DerivedFrom="DSC08799.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="0">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -37,91 +32,29 @@
     <rdf:Seq/>
    </darktable:mask_src>
    <darktable:history_modversion>
-    <rdf:Seq>
-     <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_modversion>
    <darktable:history_enabled>
-    <rdf:Seq>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_enabled>
    <darktable:history_operation>
-    <rdf:Seq>
-     <rdf:li>sharpen</rdf:li>
-     <rdf:li>basecurve</rdf:li>
-     <rdf:li>velvia</rdf:li>
-     <rdf:li>temperature</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_operation>
    <darktable:history_params>
-    <rdf:Seq>
-     <rdf:li>000000400000003f0000003f</rdf:li>
-     <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>00001c423d0a173f</rdf:li>
-     <rdf:li>00409c45a6862b400000803f3149b43f</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_params>
    <darktable:blendop_params>
-    <rdf:Seq>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgS4nBqJBgz0Ejyw+AI0WGMU=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:blendop_params>
    <darktable:blendop_version>
-    <rdf:Seq>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:blendop_version>
    <darktable:multi_priority>
-    <rdf:Seq>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:multi_priority>
    <darktable:multi_name>
-    <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li> </rdf:li>
-     <rdf:li/>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:multi_name>
-   <dc:subject>
-    <rdf:Seq>
-     <rdf:li>Andris</rdf:li>
-     <rdf:li>Anna</rdf:li>
-     <rdf:li>Germany</rdf:li>
-     <rdf:li>Mittenwald</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>nature</rdf:li>
-    </rdf:Seq>
-   </dc:subject>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Andris</rdf:li>
-     <rdf:li>Anna</rdf:li>
-     <rdf:li>Germany</rdf:li>
-     <rdf:li>Mittenwald</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>nature</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
