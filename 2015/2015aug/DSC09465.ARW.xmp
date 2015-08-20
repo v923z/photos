@@ -5,6 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC09465.ARW"
    darktable:xmp_version="1"
@@ -47,7 +49,7 @@
      <rdf:li>gz02eJwrmJxhf2SyiL2nZIa98ANR+77HGfb+r4Xs3V4H2YAwEwMDg8raBvujLlz2YZNr7YvmcNjPm9BkL/GWG66GEahG2bbefnurnL3K+kb7R2dl7P9LV9v32CqgqAEAY1gmMA==</rdf:li>
      <rdf:li>40e9d4556ce9d455030000000000803f43ebd4556ce9d4550b0000000000803fa0ebd4556ce9d4550b0000000000803f</rdf:li>
      <rdf:li>gz02eJw7FeFnm6hnaX/6i4MtQ4+b/ek90baHL2jbu70OsgFhRgYGhu8Z62zfK5jae9zusd1XYGq//Nt5W4WLJihqnOwl7Dr9ze3t+P7bPjlnYp/23cBO74Ilihr/1my7Uyou9g3unnb5VRb2/Q/b7NTO+6Oo4bm5yW6tb639vIcH7DYXFNlXXVhiFyLaguoemzbb4JVN9s5ub2xnhXXYrzrXYCP1oxJFDQCcBlM0</rdf:li>
-     <rdf:li>gz02eJxr+p1mu8Ta2Y57i70twxkJu1rFdluP1bl2Cvev2IAwIwMDw0HGN7YFcdV2B6IX2SavK7J7dFnKzp69CUVNUUS33afocrv3/hl2MpFldm87FtmdiKtAUeOvfMxu1/YGu+6e7Xav5jTbCe+6YieytNouVGWfDQiD1HA+fGS3YW6I3XWuG3arW2PsrLe/tduy1cfuU5OVDQiD1NhNYbbv+x9oFxP2147tlbedXy2HvZhohN2SyhAbEAapefKMz/6RXKWdyytu+93y6XYtjwXtWftb7daqi9qAMEgNU4Oovc3feXZM84Ttb1lPsWNOErefv2+lXfXOfhsQBql5biRlv098r12RjLh9LNMeu2pOWXshw71wfzEB1ehd8rV3nv7X7mKck/0Cx4d2fY8j7HOyeOyR1eQL5Nuf+PnVLs89xf4bUG3RzUr72dHvUMJH1qXdXufRebuZv1vtDQJ/2i3q6bDXKF6GomZhWZ19msiK3T3dU+yXajXaal0LtjfSnbYXWc32sBxbzVv+u72kou0uLRXae/vuyb1SoR9tkNUAABTCxPw=</rdf:li>
+     <rdf:li>gz02eJxr+p1mu8Ta2Y57i70twxkJu1rFdluP1bl2Cvev2IAwIwMDw0HGN7YFcdV2B6IX2SavK7J7dFnKzp69CUVNUUS33afocrtpS9Lt/PNK7WbdW2Q3zbMSRU2U6gk7xYpmuyWpO+245Nrs+J9es7O41GAXqrLPBoRBajZfe2zHPjXcji/spt3ug/F2EeHv7EIy/O0+NVnZgDBIzbwpzPa8T0Ltnuz9azfpir+dlxeHfdfnaLsllSE2IAxSk6DLZ//+Y7XdFWtu+wnPM+3eyAnaa/xrs1urLmoDwiA1j21F7VUFF9r9sBG2Z+mZZnfeTtzefdpqu+qd/TYgDFLz3EjKfp/4XrsiGXH7WKY9dtWcsvZChnvh/mICqtG75GvvPP2v3cU4J/sFjg/t+h5H2Odk8dgjq8kXyLc/8fOrXZ57iv03oNqim5X2s6PfoYSPrEu7vc6j83Yzf7faGwT+tFvU02GvUbwMRc3Csjr7NJEVu3u6p9gv1Wq01boWbG+kO20vsprtYTm2mrf8d3tJRdtdWiq09/bdk3ulQj/aIKsBAPurxKk=</rdf:li>
     </rdf:Seq>
    </darktable:mask>
    <darktable:mask_nb>
@@ -178,6 +180,30 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Hungary</rdf:li>
+     <rdf:li>Kiss Aletta Amaya</rdf:li>
+     <rdf:li>Kőszeg</rdf:li>
+     <rdf:li>dance</rdf:li>
+     <rdf:li>dancer</rdf:li>
+     <rdf:li>oriental</rdf:li>
+     <rdf:li>portrait</rdf:li>
+     <rdf:li>white</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Hungary</rdf:li>
+     <rdf:li>Kiss Aletta Amaya</rdf:li>
+     <rdf:li>Kőszeg</rdf:li>
+     <rdf:li>dance</rdf:li>
+     <rdf:li>dancer</rdf:li>
+     <rdf:li>oriental</rdf:li>
+     <rdf:li>portrait</rdf:li>
+     <rdf:li>white</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
