@@ -5,13 +5,16 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC08789.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="1"
+   exif:GPSLongitude="20,29.776955E"
+   exif:GPSLatitude="48,28.590317N">
    <darktable:mask_id>
     <rdf:Seq>
      <rdf:li>1439924057</rdf:li>
@@ -226,11 +229,23 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Zoltán Vörös</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">In Fairyland</rdf:li>
+    </rdf:Alt>
+   </dc:title>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Aggtelek</rdf:li>
      <rdf:li>Hungary</rdf:li>
      <rdf:li>cave</rdf:li>
+     <rdf:li>column</rdf:li>
+     <rdf:li>stalagmite</rdf:li>
     </rdf:Seq>
    </dc:subject>
    <lr:hierarchicalSubject>
@@ -238,6 +253,8 @@
      <rdf:li>Aggtelek</rdf:li>
      <rdf:li>Hungary</rdf:li>
      <rdf:li>cave</rdf:li>
+     <rdf:li>column</rdf:li>
+     <rdf:li>stalagmite</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
   </rdf:Description>

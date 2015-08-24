@@ -4,15 +4,17 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
+    xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC09458.ARW"
+   xmpMM:DerivedFrom="DSC09283.ARW"
+   exif:GPSLongitude="20,40.489067E"
+   exif:GPSLatitude="47,37.780267N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="0"
-   exif:GPSLongitude="16,32.286873E"
-   exif:GPSLatitude="47,23.378906N">
+   darktable:auto_presets_applied="0">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -58,6 +60,24 @@
    <darktable:multi_name>
     <rdf:Seq/>
    </darktable:multi_name>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Hungary</rdf:li>
+     <rdf:li>Tisza</rdf:li>
+     <rdf:li>Tisza-tó</rdf:li>
+     <rdf:li>bird</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Hungary</rdf:li>
+     <rdf:li>Tisza</rdf:li>
+     <rdf:li>Tisza-tó</rdf:li>
+     <rdf:li>bird</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

@@ -5,13 +5,16 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC09465.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="1"
+   exif:GPSLongitude="16,32.273941E"
+   exif:GPSLatitude="47,23.383255N">
    <darktable:mask_id>
     <rdf:Seq>
      <rdf:li>1440017219</rdf:li>
@@ -168,10 +171,10 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
