@@ -4,14 +4,17 @@
   <rdf:Description rdf:about=""
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC19722.ARW"
+   xmpMM:DerivedFrom="DSC19616.ARW"
+   exif:GPSLongitude="11,23.835933E"
+   exif:GPSLatitude="47,16.888350N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
-   darktable:auto_presets_applied="1">
+   darktable:auto_presets_applied="0">
    <darktable:mask_id>
     <rdf:Seq/>
    </darktable:mask_id>
@@ -34,104 +37,44 @@
     <rdf:Seq/>
    </darktable:mask_src>
    <darktable:history_modversion>
-    <rdf:Seq>
-     <rdf:li>2</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
-     <rdf:li>5</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_modversion>
    <darktable:history_enabled>
-    <rdf:Seq>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-     <rdf:li>1</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_enabled>
    <darktable:history_operation>
-    <rdf:Seq>
-     <rdf:li>flip</rdf:li>
-     <rdf:li>sharpen</rdf:li>
-     <rdf:li>basecurve</rdf:li>
-     <rdf:li>clipping</rdf:li>
-     <rdf:li>atrous</rdf:li>
-     <rdf:li>soften</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_operation>
    <darktable:history_params>
-    <rdf:Seq>
-     <rdf:li>ffffffff</rdf:li>
-     <rdf:li>000000400000003f0000003f</rdf:li>
-     <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
-     <rdf:li>0000000092daa73e16153e3e8e53243ff485633f0000000000000000cdcc4c3ecdcc4c3ecdcc4c3fcdcc4c3ecdcc4c3fcdcc4c3fcdcc4c3ecdcc4c3f0000000000000000000000000100000000000000ffffffff</rdf:li>
-     <rdf:li>gz06eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcRAbGz57hgcrZqASAAAoIEKm</rdf:li>
-     <rdf:li>1f851a4233330442c3f5a83e713dc041</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:history_params>
    <darktable:blendop_params>
-    <rdf:Seq>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
-     <rdf:li>gz06eJxjZWBgkGAAgRNODDDAyMBw9gyPIwNO0GAPwfTla9QG2YFwIvc2u6+e9+3obT8AFgcflg==</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:blendop_params>
    <darktable:blendop_version>
-    <rdf:Seq>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-     <rdf:li>7</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:blendop_version>
    <darktable:multi_priority>
-    <rdf:Seq>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-     <rdf:li>0</rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:multi_priority>
    <darktable:multi_name>
-    <rdf:Seq>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-    </rdf:Seq>
+    <rdf:Seq/>
    </darktable:multi_name>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Innsbruck</rdf:li>
-     <rdf:li>brown</rdf:li>
-     <rdf:li>eye</rdf:li>
      <rdf:li>green</rdf:li>
-     <rdf:li>orange</rdf:li>
-     <rdf:li>owl</rdf:li>
+     <rdf:li>lyx</rdf:li>
+     <rdf:li>tree</rdf:li>
      <rdf:li>zoo</rdf:li>
     </rdf:Seq>
    </dc:subject>
    <lr:hierarchicalSubject>
     <rdf:Seq>
      <rdf:li>Innsbruck</rdf:li>
-     <rdf:li>brown</rdf:li>
-     <rdf:li>eye</rdf:li>
      <rdf:li>green</rdf:li>
-     <rdf:li>orange</rdf:li>
-     <rdf:li>owl</rdf:li>
+     <rdf:li>lyx</rdf:li>
+     <rdf:li>tree</rdf:li>
      <rdf:li>zoo</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>
