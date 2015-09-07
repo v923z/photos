@@ -7,9 +7,9 @@
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
    xmp:Rating="1"
-   xmpMM:DerivedFrom="DSC20387.ARW"
-   exif:GPSLongitude="11,33.290150E"
-   exif:GPSLatitude="48,5.900400N"
+   xmpMM:DerivedFrom="DSC20558.ARW"
+   exif:GPSLongitude="11,33.296617E"
+   exif:GPSLatitude="48,5.886583N"
    darktable:xmp_version="1"
    darktable:raw_params="0"
    darktable:auto_presets_applied="1">
@@ -85,9 +85,9 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
-     <rdf:li> </rdf:li>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
   </rdf:Description>
