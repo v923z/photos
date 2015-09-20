@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC09513.ARW"
    darktable:xmp_version="1"
@@ -54,9 +54,6 @@
      <rdf:li>6d6acd3d8af9653e</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -171,31 +168,20 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Ridnaun</rdf:li>
-     <rdf:li>blooming</rdf:li>
-     <rdf:li>pink</rdf:li>
-     <rdf:li>nature</rdf:li>
-     <rdf:li>pine</rdf:li>
-     <rdf:li>purple</rdf:li>
-     <rdf:li>green</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">A pine blooming</rdf:li>
@@ -205,13 +191,24 @@
     <rdf:Seq>
      <rdf:li>Ridnaun</rdf:li>
      <rdf:li>blooming</rdf:li>
-     <rdf:li>pink</rdf:li>
+     <rdf:li>green</rdf:li>
      <rdf:li>nature</rdf:li>
      <rdf:li>pine</rdf:li>
+     <rdf:li>pink</rdf:li>
      <rdf:li>purple</rdf:li>
-     <rdf:li>green</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Ridnaun</rdf:li>
+     <rdf:li>blooming</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>pine</rdf:li>
+     <rdf:li>pink</rdf:li>
+     <rdf:li>purple</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

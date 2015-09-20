@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC09449.ARW"
    darktable:xmp_version="1"
@@ -134,9 +134,6 @@
      <rdf:li>38dd113f7a850e3f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -283,21 +280,12 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li> </rdf:li>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>drum</rdf:li>
-     <rdf:li>screw</rdf:li>
-     <rdf:li>Ridnaun</rdf:li>
-     <rdf:li>mine</rdf:li>
-     <rdf:li>Südtirol</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Ore drum</rdf:li>
@@ -305,13 +293,22 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>drum</rdf:li>
-     <rdf:li>screw</rdf:li>
      <rdf:li>Ridnaun</rdf:li>
-     <rdf:li>mine</rdf:li>
      <rdf:li>Südtirol</rdf:li>
+     <rdf:li>drum</rdf:li>
+     <rdf:li>mine</rdf:li>
+     <rdf:li>screw</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Ridnaun</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>drum</rdf:li>
+     <rdf:li>mine</rdf:li>
+     <rdf:li>screw</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

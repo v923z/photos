@@ -129,19 +129,19 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Innsbruck</rdf:li>
      <rdf:li>green</rdf:li>
-     <rdf:li>lyx</rdf:li>
+     <rdf:li>lynx</rdf:li>
      <rdf:li>tree</rdf:li>
      <rdf:li>zoo</rdf:li>
     </rdf:Seq>
@@ -150,7 +150,7 @@
     <rdf:Seq>
      <rdf:li>Innsbruck</rdf:li>
      <rdf:li>green</rdf:li>
-     <rdf:li>lyx</rdf:li>
+     <rdf:li>lynx</rdf:li>
      <rdf:li>tree</rdf:li>
      <rdf:li>zoo</rdf:li>
     </rdf:Seq>
