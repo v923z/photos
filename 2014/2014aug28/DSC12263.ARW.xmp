@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC12263.ARW"
    darktable:xmp_version="1"
@@ -57,9 +57,6 @@
      <rdf:li>d15de53e6cc36c3f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -153,39 +150,39 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>church</rdf:li>
-     <rdf:li>Alps</rdf:li>
-     <rdf:li>Dolomites</rdf:li>
-     <rdf:li>Italy</rdf:li>
-     <rdf:li>landscape</rdf:li>
-     <rdf:li>Südtirol</rdf:li>
-     <rdf:li>panorama</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>church</rdf:li>
      <rdf:li>Alps</rdf:li>
      <rdf:li>Dolomites</rdf:li>
      <rdf:li>Italy</rdf:li>
-     <rdf:li>landscape</rdf:li>
      <rdf:li>Südtirol</rdf:li>
+     <rdf:li>church</rdf:li>
+     <rdf:li>landscape</rdf:li>
      <rdf:li>panorama</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Alps</rdf:li>
+     <rdf:li>Dolomites</rdf:li>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>church</rdf:li>
+     <rdf:li>landscape</rdf:li>
+     <rdf:li>panorama</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

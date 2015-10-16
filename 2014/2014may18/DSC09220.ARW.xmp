@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC09220.ARW"
    darktable:xmp_version="1"
@@ -36,9 +36,6 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -119,18 +116,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>window</rdf:li>
-     <rdf:li>colour</rdf:li>
-     <rdf:li>shadow</rdf:li>
-     <rdf:li>white</rdf:li>
-     <rdf:li>green</rdf:li>
-     <rdf:li>yellow</rdf:li>
-     <rdf:li>red</rdf:li>
-     <rdf:li>Burano</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Shadow pattern</rdf:li>
@@ -138,16 +123,28 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>window</rdf:li>
+     <rdf:li>Burano</rdf:li>
      <rdf:li>colour</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>red</rdf:li>
      <rdf:li>shadow</rdf:li>
      <rdf:li>white</rdf:li>
-     <rdf:li>green</rdf:li>
+     <rdf:li>window</rdf:li>
      <rdf:li>yellow</rdf:li>
-     <rdf:li>red</rdf:li>
-     <rdf:li>Burano</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Burano</rdf:li>
+     <rdf:li>colour</rdf:li>
+     <rdf:li>green</rdf:li>
+     <rdf:li>red</rdf:li>
+     <rdf:li>shadow</rdf:li>
+     <rdf:li>white</rdf:li>
+     <rdf:li>window</rdf:li>
+     <rdf:li>yellow</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

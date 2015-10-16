@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC09109.ARW"
    exif:GPSLongitude="12,28.846467E"
@@ -71,9 +71,6 @@
      <rdf:li>5c1aa93e32c9203e</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -210,16 +207,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>snail</rdf:li>
-     <rdf:li>reflection</rdf:li>
-     <rdf:li>brown</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>sea</rdf:li>
-     <rdf:li>blue</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Run aground</rdf:li>
@@ -227,14 +214,24 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>snail</rdf:li>
-     <rdf:li>reflection</rdf:li>
-     <rdf:li>brown</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>sea</rdf:li>
      <rdf:li>blue</rdf:li>
+     <rdf:li>brown</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>snail</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>blue</rdf:li>
+     <rdf:li>brown</rdf:li>
+     <rdf:li>reflection</rdf:li>
+     <rdf:li>sea</rdf:li>
+     <rdf:li>snail</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

@@ -242,6 +242,7 @@
      <rdf:li>landscape</rdf:li>
      <rdf:li>nature</rdf:li>
      <rdf:li>reflection</rdf:li>
+     <rdf:li>simple</rdf:li>
      <rdf:li>sunrise</rdf:li>
      <rdf:li>water</rdf:li>
     </rdf:Seq>
@@ -258,6 +259,7 @@
      <rdf:li>landscape</rdf:li>
      <rdf:li>nature</rdf:li>
      <rdf:li>reflection</rdf:li>
+     <rdf:li>simple</rdf:li>
      <rdf:li>sunrise</rdf:li>
      <rdf:li>water</rdf:li>
     </rdf:Seq>

@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC12210.ARW"
    darktable:xmp_version="1"
@@ -131,9 +131,6 @@
      <rdf:li>0000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -283,42 +280,25 @@
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>3</rdf:li>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>3</rdf:li>
      <rdf:li>4</rdf:li>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
-     <rdf:li/>
      <rdf:li>1</rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>mushroom</rdf:li>
-     <rdf:li>Wolfsgruber See</rdf:li>
-     <rdf:li>close-up</rdf:li>
-     <rdf:li>South Tirol</rdf:li>
-     <rdf:li>Italy</rdf:li>
-     <rdf:li>brown</rdf:li>
-     <rdf:li>auburn</rdf:li>
-     <rdf:li>pine cone</rdf:li>
-     <rdf:li>white</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>red</rdf:li>
-     <rdf:li>autumn</rdf:li>
-     <rdf:li>Südtirol</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Sunbathing</rdf:li>
@@ -326,21 +306,38 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>mushroom</rdf:li>
-     <rdf:li>Wolfsgruber See</rdf:li>
-     <rdf:li>close-up</rdf:li>
-     <rdf:li>South Tirol</rdf:li>
      <rdf:li>Italy</rdf:li>
-     <rdf:li>brown</rdf:li>
-     <rdf:li>auburn</rdf:li>
-     <rdf:li>pine cone</rdf:li>
-     <rdf:li>white</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>red</rdf:li>
-     <rdf:li>autumn</rdf:li>
+     <rdf:li>South Tirol</rdf:li>
      <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Wolfsgruber See</rdf:li>
+     <rdf:li>auburn</rdf:li>
+     <rdf:li>autumn</rdf:li>
+     <rdf:li>brown</rdf:li>
+     <rdf:li>close-up</rdf:li>
+     <rdf:li>forest</rdf:li>
+     <rdf:li>mushroom</rdf:li>
+     <rdf:li>pine cone</rdf:li>
+     <rdf:li>red</rdf:li>
+     <rdf:li>white</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>South Tirol</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>Wolfsgruber See</rdf:li>
+     <rdf:li>auburn</rdf:li>
+     <rdf:li>autumn</rdf:li>
+     <rdf:li>brown</rdf:li>
+     <rdf:li>close-up</rdf:li>
+     <rdf:li>forest</rdf:li>
+     <rdf:li>mushroom</rdf:li>
+     <rdf:li>pine cone</rdf:li>
+     <rdf:li>red</rdf:li>
+     <rdf:li>white</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

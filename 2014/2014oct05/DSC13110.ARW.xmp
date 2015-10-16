@@ -6,8 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC13110.ARW"
    exif:GPSLongitude="11,5.803183E"
@@ -36,9 +36,6 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -143,17 +140,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Austria</rdf:li>
-     <rdf:li>Timmelsjoch</rdf:li>
-     <rdf:li>Alps</rdf:li>
-     <rdf:li>landscape</rdf:li>
-     <rdf:li>clouds</rdf:li>
-     <rdf:li>water</rdf:li>
-     <rdf:li>rock</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Fade to gray</rdf:li>
@@ -161,15 +147,26 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
+     <rdf:li>Alps</rdf:li>
      <rdf:li>Austria</rdf:li>
      <rdf:li>Timmelsjoch</rdf:li>
-     <rdf:li>Alps</rdf:li>
-     <rdf:li>landscape</rdf:li>
      <rdf:li>clouds</rdf:li>
-     <rdf:li>water</rdf:li>
+     <rdf:li>landscape</rdf:li>
      <rdf:li>rock</rdf:li>
+     <rdf:li>water</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Alps</rdf:li>
+     <rdf:li>Austria</rdf:li>
+     <rdf:li>Timmelsjoch</rdf:li>
+     <rdf:li>clouds</rdf:li>
+     <rdf:li>landscape</rdf:li>
+     <rdf:li>rock</rdf:li>
+     <rdf:li>water</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
