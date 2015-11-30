@@ -7,7 +7,7 @@
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
     xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
-   xmp:Rating="1"
+   xmp:Rating="0"
    xmpMM:DerivedFrom="DSC09218.ARW"
    darktable:xmp_version="1"
    darktable:raw_params="0"
@@ -41,6 +41,7 @@
      <rdf:li>5</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>5</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -51,6 +52,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -61,6 +63,7 @@
      <rdf:li>clipping</rdf:li>
      <rdf:li>bilat</rdf:li>
      <rdf:li>colisa</rdf:li>
+     <rdf:li>clipping</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -71,10 +74,12 @@
      <rdf:li>000000003469d23d00000000b3606e3fc1367c3f0000000000000000beb0143e3cd7273e3c776e3f5d38453e4456793fd444503f5c22ab3d60c7653f010000000000000001000000010000000000000000000000</rdf:li>
      <rdf:li>0000a041000048428841a03e</rdf:li>
      <rdf:li>0000000000000000c0cc4c3d</rdf:li>
+     <rdf:li>00000080ac2ec33df887873d009d6d3f02237c3f000000000000000032ec153e2e3c173e3c776e3f5d38453e36b27a3fa0b46c3f5c22ab3d60c7653f030000000000000001000000010000000000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -91,6 +96,7 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
@@ -101,10 +107,12 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
     <rdf:Seq>
+     <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>

@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC12068.ARW"
    darktable:xmp_version="1"
@@ -68,9 +68,6 @@
      <rdf:li>aea9863b2215073f</rdf:li>
     </rdf:Seq>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -86,7 +83,7 @@
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -140,7 +137,7 @@
      <rdf:li>92f7d7c0028a8fc10000000000000000cccc8c3f</rdf:li>
      <rdf:li>00409c45bcf104400000803f7eaa0740</rdf:li>
      <rdf:li>ffffcf41000048429899993e</rdf:li>
-     <rdf:li>a09bc43b000000000000803f</rdf:li>
+     <rdf:li>00000000a09bc43b000000000000c842000080bf00000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -215,14 +212,6 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>stone</rdf:li>
-     <rdf:li>tyre</rdf:li>
-     <rdf:li>bicycle</rdf:li>
-     <rdf:li>red</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:title>
     <rdf:Alt>
      <rdf:li xml:lang="x-default">Rolling elegance</rdf:li>
@@ -230,12 +219,20 @@
    </dc:title>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>stone</rdf:li>
-     <rdf:li>tyre</rdf:li>
      <rdf:li>bicycle</rdf:li>
      <rdf:li>red</rdf:li>
+     <rdf:li>stone</rdf:li>
+     <rdf:li>tyre</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>bicycle</rdf:li>
+     <rdf:li>red</rdf:li>
+     <rdf:li>stone</rdf:li>
+     <rdf:li>tyre</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

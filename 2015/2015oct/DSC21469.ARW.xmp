@@ -6,6 +6,8 @@
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:exif="http://ns.adobe.com/exif/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC21469.ARW"
    exif:GPSLongitude="11,18.383283E"
@@ -88,6 +90,10 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>2</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
@@ -109,6 +115,10 @@
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:history_enabled>
    <darktable:history_operation>
@@ -130,6 +140,10 @@
      <rdf:li>vibrance</rdf:li>
      <rdf:li>bilat</rdf:li>
      <rdf:li>graduatednd</rdf:li>
+     <rdf:li>levels</rdf:li>
+     <rdf:li>bilat</rdf:li>
+     <rdf:li>tonecurve</rdf:li>
+     <rdf:li>splittoning</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -151,6 +165,10 @@
      <rdf:li>0000c841</rdf:li>
      <rdf:li>ffffcf410000304249e1ba3e</rdf:li>
      <rdf:li>0000803f00002c4200000000ba7e23420000000000000000</rdf:li>
+     <rdf:li>0000000000000000000048420000c84200000000b4bef83e0000803f</rdf:li>
+     <rdf:li>ffffcf410000304249e1ba3e</rdf:li>
+     <rdf:li>gz12eJxjYICAjnZ2+1yJ/3YMDA32EDzogD0Ej7qPFMCMhJmQMCNUHkQDAPxkCJ8=</rdf:li>
+     <rdf:li>e17a943e0000003fcdcc4c3e0000003f0000003f00000442</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -172,10 +190,18 @@
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjZGBgkABiRoYPjgxEgwZ7CB5ZfAAB4Bks</rdf:li>
     </rdf:Seq>
    </darktable:blendop_params>
    <darktable:blendop_version>
     <rdf:Seq>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
@@ -214,6 +240,10 @@
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
     </rdf:Seq>
    </darktable:multi_priority>
    <darktable:multi_name>
@@ -235,8 +265,53 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
+     <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
+   <dc:creator>
+    <rdf:Seq>
+     <rdf:li>Zoltán Vörös</rdf:li>
+    </rdf:Seq>
+   </dc:creator>
+   <dc:publisher>
+    <rdf:Bag>
+     <rdf:li>Zoltán Vörös</rdf:li>
+    </rdf:Bag>
+   </dc:publisher>
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">Still standing still</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:subject>
+    <rdf:Seq>
+     <rdf:li>Bavaria</rdf:li>
+     <rdf:li>Bayern</rdf:li>
+     <rdf:li>Germany</rdf:li>
+     <rdf:li>Walchensee</rdf:li>
+     <rdf:li>autumn</rdf:li>
+     <rdf:li>lake</rdf:li>
+     <rdf:li>log</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>reflection</rdf:li>
+    </rdf:Seq>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Bavaria</rdf:li>
+     <rdf:li>Bayern</rdf:li>
+     <rdf:li>Germany</rdf:li>
+     <rdf:li>Walchensee</rdf:li>
+     <rdf:li>autumn</rdf:li>
+     <rdf:li>lake</rdf:li>
+     <rdf:li>log</rdf:li>
+     <rdf:li>nature</rdf:li>
+     <rdf:li>reflection</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
