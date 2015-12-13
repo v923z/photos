@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:darktable="http://darktable.sf.net/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    darktable:xmp_version="1"
    darktable:raw_params="0"
@@ -33,9 +33,6 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
@@ -44,10 +41,16 @@
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>4</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -64,6 +67,9 @@
      <rdf:li>temperature</rdf:li>
      <rdf:li>graduatednd</rdf:li>
      <rdf:li>bilat</rdf:li>
+     <rdf:li>atrous</rdf:li>
+     <rdf:li>vignette</rdf:li>
+     <rdf:li>splittoning</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -74,10 +80,16 @@
      <rdf:li>00409c450080db3f0000803f0000ef3f</rdf:li>
      <rdf:li>e2acfc3f3b7db14260ef90c2417358420000000000000000</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
+     <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcbEsXqyYeysbVuyxrdgOG2YgEQAA4N5DDA==</rdf:li>
+     <rdf:li>ae478c42aec78c42000000bfd022dbbd182fddbdb047613e000000007593883f0000803f0000000001000000</rdf:li>
+     <rdf:li>ae47213f0000003fcdcc4c3e0000003f0000003fe17a6942</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -94,10 +106,16 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -114,24 +132,27 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Clobenstein</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>Südtirol</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Clobenstein</rdf:li>
-     <rdf:li>forest</rdf:li>
-     <rdf:li>Südtirol</rdf:li>
      <rdf:li>Orsi</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>forest</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Clobenstein</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+     <rdf:li>Südtirol</rdf:li>
+     <rdf:li>forest</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

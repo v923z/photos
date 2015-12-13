@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC03969.ARW"
    darktable:xmp_version="1"
@@ -33,16 +33,13 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>1</rdf:li>
-     <rdf:li>3</rdf:li>
+     <rdf:li>5</rdf:li>
      <rdf:li>5</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
@@ -72,7 +69,7 @@
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
      <rdf:li>0000a04100004842cdcc4c3e</rdf:li>
-     <rdf:li>gz02eJyzZoCBBnsGhgNA/MCRgWGCA0iEEYiDfUJ0Hc3Nwxg6n/az1QNVtGSDhBlmQ/kwOoEJYsqEO1dYQfTBotwJIPECU59n/4G0UUkWmD8Byv+gAjEHpv5X9xWwOTD+PHdHsPrg/LxKBZcQBUMLXVPT3FwFN2M9U11TPTOFYEdfIPYBSpiaAtUnQN3FAKUdVCE0zJ4Ha1NQ7BNbh2ofjHa4B6FRAShsGuwBi2hG/g==</rdf:li>
+     <rdf:li>gz02eJyzZoCBBnsGhgNA/MCRgWGCA0iEEYiDfUJ0Hc3Nwxg6n/az1QNVtGSDhBlmQ/kwOoEJYsqEO1dYQfTBotwJIPECU59n/4G0UUkWmD8Byv+gAjEHpv5X9xWwOTD+PHdHsPrg/LxKBZcQBUMLXVPT3FwFN2M9U11TPTOFYEdfIPYBSpiaAtUnQN3FAKUdVCE0zJ4Ha1NQ7BNbh2ofjHa4B6FRAShsGuxBBgAAp3NG/w==</rdf:li>
      <rdf:li>00000000f490263e00000000587e793f0000803f0000000000000000c82f953edc4f963dc8a6743fc8fb683dd6f97a3f8ab9553f07c7773e8bd8533f010000000000000001000000010000000000000000000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
@@ -116,22 +113,22 @@
      <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Piazzale Orsi</rdf:li>
-     <rdf:li>Rovereto</rdf:li>
-     <rdf:li>Italy</rdf:li>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
-     <rdf:li>Piazzale Orsi</rdf:li>
-     <rdf:li>Rovereto</rdf:li>
      <rdf:li>Italy</rdf:li>
      <rdf:li>Orsi</rdf:li>
+     <rdf:li>Piazzale Orsi</rdf:li>
+     <rdf:li>Rovereto</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Italy</rdf:li>
+     <rdf:li>Orsi</rdf:li>
+     <rdf:li>Piazzale Orsi</rdf:li>
+     <rdf:li>Rovereto</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>

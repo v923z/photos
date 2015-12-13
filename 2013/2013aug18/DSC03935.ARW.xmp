@@ -5,8 +5,8 @@
     xmlns:xmp="http://ns.adobe.com/xap/1.0/"
     xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
     xmlns:darktable="http://darktable.sf.net/"
-    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
     xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
    xmp:Rating="1"
    xmpMM:DerivedFrom="DSC03935.ARW"
    darktable:xmp_version="1"
@@ -33,16 +33,13 @@
    <darktable:mask_src>
     <rdf:Seq/>
    </darktable:mask_src>
-   <darktable:colorlabels>
-    <rdf:Seq/>
-   </darktable:colorlabels>
    <darktable:history_modversion>
     <rdf:Seq>
      <rdf:li>1</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
-     <rdf:li>2</rdf:li>
+     <rdf:li>4</rdf:li>
      <rdf:li>2</rdf:li>
      <rdf:li>2</rdf:li>
     </rdf:Seq>
@@ -75,9 +72,9 @@
      <rdf:li>gz09eJxjYICAL3eYbKcsErU1fXPdVmRLpl1B+T07pyon+6WC0fb9R6rtGRgaoHgUDCXAhsRmQmIDALiED18=</rdf:li>
      <rdf:li>00000040000048420000003f0000803f</rdf:li>
      <rdf:li>00409c45f8a7b03f0000803f61566640</rdf:li>
-     <rdf:li>00000000e07a14400000803f</rdf:li>
-     <rdf:li>00409c459cc4a03f0000803f61566640</rdf:li>
-     <rdf:li>00000000000000000000004000000000</rdf:li>
+     <rdf:li>0000000000000000e07a14400000c842000080bf00000000</rdf:li>
+     <rdf:li>00409c45456db03f0000803fc4636740</rdf:li>
+     <rdf:li>e53594c22ed559c23133b33f00000000</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
@@ -124,16 +121,16 @@
      <rdf:li> </rdf:li>
     </rdf:Seq>
    </darktable:multi_name>
-   <lr:hierarchicalSubject>
-    <rdf:Seq>
-     <rdf:li>Orsi</rdf:li>
-    </rdf:Seq>
-   </lr:hierarchicalSubject>
    <dc:subject>
     <rdf:Seq>
      <rdf:li>Orsi</rdf:li>
     </rdf:Seq>
    </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Seq>
+     <rdf:li>Orsi</rdf:li>
+    </rdf:Seq>
+   </lr:hierarchicalSubject>
   </rdf:Description>
  </rdf:RDF>
 </x:xmpmeta>
