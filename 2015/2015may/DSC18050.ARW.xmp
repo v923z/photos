@@ -152,7 +152,9 @@
     <rdf:Seq>
      <rdf:li>Adriatic Sea</rdf:li>
      <rdf:li>Andris</rdf:li>
+     <rdf:li>Italy</rdf:li>
      <rdf:li>sea</rdf:li>
+     <rdf:li>surf</rdf:li>
      <rdf:li>water</rdf:li>
     </rdf:Seq>
    </dc:subject>
@@ -160,7 +162,9 @@
     <rdf:Seq>
      <rdf:li>Adriatic Sea</rdf:li>
      <rdf:li>Andris</rdf:li>
+     <rdf:li>Italy</rdf:li>
      <rdf:li>sea</rdf:li>
+     <rdf:li>surf</rdf:li>
      <rdf:li>water</rdf:li>
     </rdf:Seq>
    </lr:hierarchicalSubject>

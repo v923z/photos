@@ -42,10 +42,12 @@
      <rdf:li>1</rdf:li>
      <rdf:li>4</rdf:li>
      <rdf:li>1</rdf:li>
+     <rdf:li>1</rdf:li>
     </rdf:Seq>
    </darktable:history_modversion>
    <darktable:history_enabled>
     <rdf:Seq>
+     <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
      <rdf:li>1</rdf:li>
@@ -64,6 +66,7 @@
      <rdf:li>atrous</rdf:li>
      <rdf:li>vignette</rdf:li>
      <rdf:li>graduatednd</rdf:li>
+     <rdf:li>splittoning</rdf:li>
     </rdf:Seq>
    </darktable:history_operation>
    <darktable:history_params>
@@ -75,10 +78,12 @@
      <rdf:li>gz05eJxjZ4CAs2d87M6eOWM3a6akPZBtz8DQYE9rcWleAay4j40DK37w084OG2YgEQAAqUBD9g==</rdf:li>
      <rdf:li>8f42c74200004842000000bf000000bf285c8fbe00fe54bc0000000068914d3f0000803f0000000001000000</rdf:li>
      <rdf:li>0000803f000014420238b8c1c4a5dc41ec51b83d295c8f3e</rdf:li>
+     <rdf:li>ae47213f0000003fcdcc4c3e0000003f0000003f295ca141</rdf:li>
     </rdf:Seq>
    </darktable:history_params>
    <darktable:blendop_params>
     <rdf:Seq>
+     <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
      <rdf:li>gz12eJxjYGBgkGAAgRNODESDBnsIHll8ANNSGQM=</rdf:li>
@@ -97,10 +102,12 @@
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
      <rdf:li>7</rdf:li>
+     <rdf:li>7</rdf:li>
     </rdf:Seq>
    </darktable:blendop_version>
    <darktable:multi_priority>
     <rdf:Seq>
+     <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
      <rdf:li>0</rdf:li>
@@ -119,6 +126,7 @@
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
      <rdf:li> </rdf:li>
+     <rdf:li/>
     </rdf:Seq>
    </darktable:multi_name>
    <dc:subject>
